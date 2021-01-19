@@ -146,6 +146,7 @@ sections:
     grid_gap_horiz: small
     align: center
     enable_cards: true
+    background_color: secondary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
