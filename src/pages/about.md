@@ -10,7 +10,7 @@ sections:
     features:
       - type: feature
         title: Our Why
-        subtitle: 'Everything we do we believe in '
+        subtitle: Everything we do we believe in challenging the status quo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
