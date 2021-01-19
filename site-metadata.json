@@ -48,7 +48,7 @@
             },
             {
                 "type": "action",
-                "label": "",
+                "label": "Book Now",
                 "url": "/pricing",
                 "style": "primary"
             }
