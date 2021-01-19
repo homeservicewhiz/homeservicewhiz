@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "type": "header",
-        "title": "HomeServiceWhiz",
+        "title": "",
         "logo_alt": "Home Service Whiz logo",
         "has_primary_nav": true,
         "primary_nav_links": [
