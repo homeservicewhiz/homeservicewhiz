@@ -175,7 +175,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Moving",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
