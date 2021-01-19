@@ -354,7 +354,7 @@ sections:
         label: Call Now
         url: /pricing
         style: primary
-      - label: lorem-ipsum
+      - label: Book Consultation
         url: lorem-ipsum
         style: link
         has_icon: false
