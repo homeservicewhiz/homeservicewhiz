@@ -17,7 +17,7 @@ sections:
         media_position: right
         media_width: fifty
       - type: feature
-        title: Section Title Two
+        title: Our Values
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
