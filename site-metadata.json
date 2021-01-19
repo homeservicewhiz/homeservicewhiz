@@ -81,7 +81,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "",
+                "label": "Get Inspired",
                 "url": "/blog/category/news",
                 "style": "link"
             },
