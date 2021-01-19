@@ -217,7 +217,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
+    title: What our customers say
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
