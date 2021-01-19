@@ -261,7 +261,7 @@ sections:
           payment plan.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Gordon Norman,** San Jose, California
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
