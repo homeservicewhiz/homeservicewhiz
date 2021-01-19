@@ -255,9 +255,10 @@ sections:
         image_position: left
         image_width: twenty-five
       - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          Loved the garage conversion job done by home service whiz. Their
+          pricing was within budget and they made it even easy with their
+          payment plan.
 
 
           **Gordon Norman,** *Web Designer, Studio*
