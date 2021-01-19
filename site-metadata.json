@@ -87,7 +87,7 @@
             },
             {
                 "type": "action",
-                "label": "General",
+                "label": "How to's",
                 "url": "/blog/category/general",
                 "style": "link"
             },
