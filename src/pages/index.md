@@ -9,7 +9,7 @@ sections:
       for later.
     actions:
       - type: action
-        label: Try Free
+        label: Call Now
         url: /pricing
         style: primary
       - type: action
