@@ -349,6 +349,9 @@ sections:
     content: >
       Call our team of home improvement specialists right away or schedule a
       consultation.
+
+
+      # 888-987-0000
     actions:
       - type: action
         label: Call Now
