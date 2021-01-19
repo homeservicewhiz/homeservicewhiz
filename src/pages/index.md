@@ -108,7 +108,7 @@ sections:
         image: /images/Home Remodeling.png
         image_alt: Contentful logo
         image_align: center
-        title: Home Remodeling
+        title: ''
         title_align: center
         image_position: top
         image_width: fourty
