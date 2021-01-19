@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: HOME REMODELING DONE RIGHT!
-    subtitle: Optional hero section subtitle
+    subtitle: O
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
