@@ -54,7 +54,7 @@
             },
             {
                 "type": "action",
-                "label": "Schedule",
+                "label": "Schedule ",
                 "url": "/pricing",
                 "style": "primary"
             }
