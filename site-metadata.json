@@ -177,16 +177,6 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "© Copyright 2021 HomeServiceWhiz. All Rights Reserved"
