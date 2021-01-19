@@ -232,12 +232,12 @@ sections:
         image_position: left
         image_width: twenty-five
       - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          They reminded me of speedy Gonzalez :-) Our bathroom has never looked
+          better, and now it is the best-looking part of the house
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Tone,** *Wood Dale, Illinois*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
