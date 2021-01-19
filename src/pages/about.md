@@ -10,7 +10,7 @@ sections:
     features:
       - type: feature
         title: Our Why
-        subtitle: 'We envision a world '
+        subtitle: 'Everything we do we believe in '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
