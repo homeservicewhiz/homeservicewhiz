@@ -101,7 +101,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Image Grid
+    title: Our Services
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
