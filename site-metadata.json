@@ -93,7 +93,7 @@
             },
             {
                 "type": "action",
-                "label": "Tutorials",
+                "label": "",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
