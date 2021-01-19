@@ -87,7 +87,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Schedule a call",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
