@@ -48,7 +48,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Contact",
+                "label": "Call Now",
                 "url": "/contact",
                 "style": "link"
             },
