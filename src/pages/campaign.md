@@ -1,6 +1,6 @@
 ---
 title: Areas we serve
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - type: hero_section
     title: This is the Hero
