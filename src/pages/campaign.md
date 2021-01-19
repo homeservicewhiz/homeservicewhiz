@@ -3,7 +3,7 @@ title: Areas we serve
 excerpt: ''
 sections:
   - type: hero_section
-    title: This is the Hero
+    title: Bathroom Remodeling
     subtitle: The optional subtitle
     align: center
     padding_top: medium
