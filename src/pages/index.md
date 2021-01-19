@@ -102,7 +102,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Our Services
-    subtitle: 'Valar '
+    subtitle: Valar dohaeris "All men must serve"
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
