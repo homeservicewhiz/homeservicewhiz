@@ -48,7 +48,7 @@
             },
             {
                 "type": "action",
-                "label": "Schedule Call",
+                "label": "B",
                 "url": "/pricing",
                 "style": "primary"
             }
