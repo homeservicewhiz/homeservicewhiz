@@ -51,7 +51,7 @@
                 "label": "Book Now",
                 "url": "/contact",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ],
         "has_anncmnt": true,
