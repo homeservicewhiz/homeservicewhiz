@@ -4,7 +4,7 @@ excerpt: ''
 sections:
   - type: hero_section
     title: Bathroom Remodeling
-    subtitle: The optional subtitle
+    subtitle: ''
     align: center
     padding_top: medium
     padding_bottom: medium
