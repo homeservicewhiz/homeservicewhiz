@@ -218,7 +218,7 @@ sections:
     background_color: none
   - type: grid_section
     title: What our customers say
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - type: grid_item
         content: >-
