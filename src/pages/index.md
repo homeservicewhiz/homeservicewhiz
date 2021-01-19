@@ -243,12 +243,13 @@ sections:
         image_position: left
         image_width: twenty-five
       - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          We hired home services whiz to renovate a guest bathroom, they showed
+          up on time and did exactly what they said they would. The bathroom is
+          totally transformed
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Eleanor Carr,** *Saccremento, California*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
