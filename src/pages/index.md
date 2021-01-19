@@ -223,10 +223,10 @@ sections:
       - type: grid_item
         content: >
           Thank you home service whiz for the magnificient job. Highly
-          recommended. 
+          recommended.
 
 
-          **Jack Shephard,** *Los Angeles*
+          **Jack Shephard,** *Los Angeles, California*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
