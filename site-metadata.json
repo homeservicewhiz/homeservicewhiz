@@ -147,7 +147,7 @@
         "tertiary_nav_links": [
             {
                 "type": "action",
-                "label": "Terms & Conditions",
+                "label": "Terms",
                 "url": "/terms-conditions",
                 "style": "link"
             },
