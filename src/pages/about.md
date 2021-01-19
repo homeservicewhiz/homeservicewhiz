@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: ''
     align: center
-    background_color: secondary
+    background_color: primary
   - type: features_section
     features:
       - type: feature
