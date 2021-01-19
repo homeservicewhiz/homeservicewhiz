@@ -221,12 +221,12 @@ sections:
     subtitle: ''
     grid_items:
       - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        content: >
+          Thank you home service whiz for the magnificient job. Highly
+          recommended. 
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Jack Shephard,** *Los Angeles*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
