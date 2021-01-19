@@ -142,7 +142,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Why us ?
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - type: grid_item
         title: Section Item 1
