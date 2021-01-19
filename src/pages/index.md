@@ -347,11 +347,9 @@ sections:
   - type: cta_section
     title: Schedule Consultation or Call for a quick estimate
     content: >
-      Call our team of home improvement specialists right away or schedule a
-      consultation.
-
-
-      ##### 888-987-0000
+      They call it home remodeling we, evolution. Call our team of home
+      improvement specialists right away or schedule a consultation at your
+      preffered time.
     actions:
       - type: action
         label: Call Now
