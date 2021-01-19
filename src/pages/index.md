@@ -347,7 +347,7 @@ sections:
   - type: cta_section
     title: Schedule Consultation or Call for a quick estimate
     content: >
-      They call it home remodeling we, evolution. Call our team of home
+      They call it home remodeling we call it evolution. Call our team of home
       improvement specialists right away or schedule a consultation at your
       preffered time.
     actions:
