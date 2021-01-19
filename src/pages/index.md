@@ -351,7 +351,7 @@ sections:
       consultation.
     actions:
       - type: action
-        label: Button
+        label: Call Now
         url: /pricing
         style: primary
     actions_position: bottom
