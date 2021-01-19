@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: HOME REMODELING DONE RIGHT!
     subtitle: One Stop Solution for all your home imorovement needs
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Call now to speak with a home improvement specialist or schedule a call
+      for later.
     actions:
       - type: action
         label: Try Free
