@@ -102,7 +102,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Our Services
-    subtitle: ''
+    subtitle: 'Valar '
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
