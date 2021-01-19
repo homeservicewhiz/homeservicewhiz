@@ -48,7 +48,7 @@
             },
             {
                 "type": "action",
-                "label": "Book Now",
+                "label": "Book a call",
                 "url": "/contact",
                 "style": "primary",
                 "has_icon": false
