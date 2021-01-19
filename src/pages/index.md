@@ -351,7 +351,7 @@ sections:
       consultation.
 
 
-      # 888-987-0000
+      ###### 888-987-0000
     actions:
       - type: action
         label: Call Now
