@@ -143,7 +143,7 @@ sections:
         image_align: center
     grid_cols: four
     grid_gap_vert: small
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     align: center
   - type: features_section
     title: Features Section
