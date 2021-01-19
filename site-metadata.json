@@ -93,7 +93,7 @@
             },
             {
                 "type": "action",
-                "label": "",
+                "label": "Curations",
                 "url": "/blog/category/tutorials",
                 "style": "link"
             }
