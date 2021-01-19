@@ -52,7 +52,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
