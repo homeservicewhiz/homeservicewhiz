@@ -50,7 +50,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_width: twenty-five
+        image_width: fifty
       - type: grid_item
         title: Section Item 2
         title_align: left
