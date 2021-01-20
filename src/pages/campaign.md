@@ -4,7 +4,7 @@ excerpt: ''
 sections:
   - type: hero_section
     title: Bathroom Remodeling
-    subtitle: Breath some new
+    subtitle: Breath some new life into your bathroom
     align: center
     padding_top: medium
     padding_bottom: medium
