@@ -29,7 +29,7 @@ sections:
     subtitle: ''
     grid_items:
       - type: grid_item
-        title: Section Item 1
+        title: Quick
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
