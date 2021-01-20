@@ -9,7 +9,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    image: /images/AdobeStock_302091475_Preview.jpeg
   - type: form_section
     content: "A bathroom makeover is an exciting and fun home project to require and an activity you'll be considering now that we've been spending longer at home. So as for your makeover to travel smoothly and stay within budget, it requires a clear plan and established design.\_\n\n\n\nBathroom makeovers could be messy, time-consuming, and expensive. Our vetted licensed and insured pros ensure that everything is executed with as little mess as possible. They not only save you money but also save your time so you can spend it doing what you love.\n\n\n\n\n"
     content_align: left
