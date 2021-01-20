@@ -34,7 +34,7 @@ sections:
         media_position: left
         media_width: fifty
       - type: feature
-        title: Section Title Three
+        title: Implement
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
