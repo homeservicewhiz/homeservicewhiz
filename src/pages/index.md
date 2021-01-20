@@ -49,7 +49,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: bottom
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_width: twenty-five
       - type: grid_item
         title: Section Item 2
