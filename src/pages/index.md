@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: HOME REMODELING DONE RIGHT!
-    subtitle: One Stop Solution for all your home imorovement needs
+    subtitle: ''
     content: >
       Call now to speak with a home improvement specialist or schedule a call
       for later.
