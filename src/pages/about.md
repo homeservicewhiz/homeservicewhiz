@@ -7,7 +7,7 @@ sections:
     align: center
     background_color: primary
   - type: cta_section
-    title: This is a Call to Action
+    title: 'Ready to '
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - type: action
