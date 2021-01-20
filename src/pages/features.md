@@ -8,7 +8,7 @@ sections:
       result-oriented process of work.
     background_color: primary
     align: center
-    padding_top: medium
+    padding_top: small
   - type: features_section
     features:
       - type: feature
