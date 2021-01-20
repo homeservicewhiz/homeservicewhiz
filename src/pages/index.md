@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       One Stop Solution for all your home imorovement needs. Call now to speak
-      with a home improvement specialist or schedule a call for later.
+      with a home improvement specialist.
     actions:
       - type: action
         label: Call Now
