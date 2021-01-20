@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: ''
+    subtitle: Homes are
     align: center
     background_color: primary
   - type: cta_section
