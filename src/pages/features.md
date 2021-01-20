@@ -22,10 +22,7 @@ sections:
       - type: feature
         title: Approval
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: ''
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
