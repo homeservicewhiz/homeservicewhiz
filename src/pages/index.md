@@ -31,10 +31,10 @@ sections:
       - type: grid_item
         title: Quick
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Our quick turnaround time helps you save yours to live your life doing
+          stuff you care about.
+
         content_align: left
         actions:
           - type: action
