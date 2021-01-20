@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: cta_section
     title: Ready to kickstart your home improvement joueney ?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: ''
     actions:
       - type: action
         label: Compare Plans
