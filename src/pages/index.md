@@ -109,7 +109,7 @@ sections:
         image_align: center
         title: ''
         title_align: center
-        image_position: top
+        image_position: left
         image_width: fourty
         image_has_padding: true
         image: /images/home.png
