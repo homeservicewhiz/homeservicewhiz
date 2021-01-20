@@ -10,18 +10,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: "A bathroom makeover is an exciting and fun home project to require and an activity you'll be considering now that we've been spending longer at home. So as for your makeover to travel smoothly and stay within budget, it requires a clear plan and established design.\_\n\n\n\nBathroom makeovers could be messy, time-consuming, and expensive. Our vetted licensed and insured pros ensure that everything is executed with as little mess as possible. They not only save you money but also save your time so you can spend it doing what you love.\n\n\n\n\n"
     content_align: left
     form_position: right
     form_width: fifty
