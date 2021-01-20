@@ -5,8 +5,8 @@ sections:
     title: HOME REMODELING DONE RIGHT!
     subtitle: ''
     content: >
-      Call now to speak with a home improvement specialist or schedule a call
-      for later.
+      One Stop Solution for all your home imorovement needs. Call now to speak
+      with a home improvement specialist or schedule a call for later.
     actions:
       - type: action
         label: Call Now
