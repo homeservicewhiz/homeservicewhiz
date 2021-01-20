@@ -35,7 +35,9 @@ sections:
         media_width: fifty
       - type: feature
         title: Implement
-        subtitle: 'Donec nisl ligula, cursus id molestie vel.'
+        subtitle: >-
+          We round up our professionals and get to work. During this phase, we
+          ensure that your home stays clean and tidy.
         content: ''
         image: images/about-1.jpg
         image_alt: Happy co-workers
