@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Our Process
-    subtitle: ''
+    subtitle: >-
+      We strive to keep a transparent relationship with our clients with our
+      result-oriented process of work.
     background_color: primary
   - type: features_section
     features:
