@@ -4,11 +4,7 @@ excerpt: ''
 sections:
   - type: hero_section
     title: Bathroom Remodeling
-    subtitle: >-
-      A bathroom makeover is an exciting and fun home project to require and an
-      activity you'll be considering now that we've been spending longer at
-      home. So as for your makeover to travel smoothly and stay within budget,
-      it requires a clear plan and established design. 
+    subtitle: Breath some new
     align: center
     padding_top: medium
     padding_bottom: medium
