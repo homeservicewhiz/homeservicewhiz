@@ -24,6 +24,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: primary
+    has_border: true
   - type: grid_section
     title: Why us ?
     subtitle: ''
