@@ -110,7 +110,7 @@ sections:
         title: ''
         title_align: center
         image_position: left
-        image_width: fourty
+        image_width: twenty-five
         image_has_padding: true
         image: /images/home.png
       - type: grid_item
