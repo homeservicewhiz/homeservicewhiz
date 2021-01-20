@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: ''
     align: center
-    background_color: primary
+    background_color: none
   - type: cta_section
     title: Ready to kickstart your home improvement joueney ?
     content: ''
