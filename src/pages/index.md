@@ -68,9 +68,9 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image_alt: Section item 2 icon
+        image_alt: sheild icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
         image: /images/Sheild.svg
       - type: grid_item
