@@ -105,7 +105,7 @@ sections:
     subtitle: Valar dohaeris "All men must serve"
     grid_items:
       - type: grid_item
-        image_alt: Contentful logo
+        image_alt: home remodeling
         image_align: center
         title: ''
         title_align: center
