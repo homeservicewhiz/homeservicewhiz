@@ -13,7 +13,7 @@ sections:
     features:
       - type: feature
         title: Consultation
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
+        subtitle: Odio We strive
         content: ''
         image: images/about-3.jpg
         image_alt: Top view of business meeting
