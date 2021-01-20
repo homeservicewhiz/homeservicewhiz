@@ -21,7 +21,10 @@ sections:
         media_width: fifty
       - type: feature
         title: Approval
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
+        subtitle: >-
+          Based on your requirements, we present a detailed plan with the
+          schedule. Once you give us a thumbs up, we move to the implementation
+          phase.
         content: ''
         video_embed_html: >-
           <iframe width="560" height="315"
