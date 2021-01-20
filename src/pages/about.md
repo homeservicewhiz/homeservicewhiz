@@ -15,7 +15,7 @@ sections:
         url: /pricing
         style: primary
       - label: Book Consultation
-        url: lorem-ipsum
+        url: ''
         style: link
         has_icon: false
         icon: arrow-left
