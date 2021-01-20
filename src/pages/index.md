@@ -47,7 +47,7 @@ sections:
         actions_align: left
         image: /images/quick.svg
         image_alt: Section item 1 icon
-        image_position: top
+        image_position: bottom
         image_align: left
         image_has_padding: true
       - type: grid_item
