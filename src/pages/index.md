@@ -149,10 +149,6 @@ sections:
     align: center
     enable_cards: true
     background_color: secondary
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: What our customers say
     subtitle: ''
