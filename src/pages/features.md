@@ -34,7 +34,7 @@ sections:
         media_position: left
         media_width: fifty
       - type: feature
-        title: Implement
+        title: Implementation
         subtitle: >-
           We round up our professionals and get to work. During this phase, we
           ensure that your home stays clean and tidy.
