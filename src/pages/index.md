@@ -52,7 +52,7 @@ sections:
         image_has_padding: true
         image_width: fifty
       - type: grid_item
-        title: Section Item 2
+        title: Safe
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
