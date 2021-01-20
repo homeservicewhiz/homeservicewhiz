@@ -35,7 +35,7 @@ sections:
         media_width: fifty
       - type: feature
         title: Implement
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: 'Donec nisl ligula, cursus id molestie vel.'
         content: ''
         image: images/about-1.jpg
         image_alt: Happy co-workers
