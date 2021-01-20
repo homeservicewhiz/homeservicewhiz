@@ -16,7 +16,7 @@ sections:
         style: primary
       - label: Book Consultation
         url: ''
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
