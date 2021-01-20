@@ -13,7 +13,7 @@ sections:
     features:
       - type: feature
         title: Consultation
-        subtitle: Odio We strive
+        subtitle: 'Here we understand your requirements, goals and preliminary budget.'
         content: ''
         image: images/about-3.jpg
         image_alt: Top view of business meeting
