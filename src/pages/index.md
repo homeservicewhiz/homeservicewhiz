@@ -30,7 +30,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Quick
-        title_align: left
+        title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
