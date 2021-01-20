@@ -11,7 +11,7 @@ sections:
     content: ''
     actions:
       - type: action
-        label: Compare Plans
+        label: Schedule A Call
         url: /pricing
         style: primary
     align: center
