@@ -7,6 +7,7 @@ sections:
       We strive to keep a transparent relationship with our clients with our
       result-oriented process of work.
     background_color: primary
+    align: center
   - type: features_section
     features:
       - type: feature
