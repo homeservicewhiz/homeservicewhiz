@@ -74,7 +74,7 @@ sections:
         image_has_padding: true
         image: /images/Sheild.svg
       - type: grid_item
-        title: Section Item 3
+        title: Flexible
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
