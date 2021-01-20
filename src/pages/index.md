@@ -112,6 +112,7 @@ sections:
         image_position: top
         image_width: fourty
         image_has_padding: true
+        image: /images/home.png
       - type: grid_item
         image: images/logo-2.svg
         image_alt: Netlify logo
