@@ -22,7 +22,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: small
     background_color: primary
   - type: grid_section
     title: Why us ?
