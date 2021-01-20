@@ -54,10 +54,10 @@ sections:
       - type: grid_item
         title: Safe
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Our transparent annual warranties cover most repairs, renovations, and
+          appliances, which means your peace is guaranteed.
+
         content_align: left
         actions:
           - type: action
