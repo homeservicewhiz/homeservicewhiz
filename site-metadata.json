@@ -224,7 +224,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Resources",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
