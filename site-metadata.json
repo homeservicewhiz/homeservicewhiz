@@ -213,7 +213,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Blog",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
