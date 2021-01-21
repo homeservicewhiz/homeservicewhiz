@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/home.png
+        image: /images/Home Warranties.svg
       - type: grid_item
         image: images/logo-2.svg
         image_alt: Netlify logo
