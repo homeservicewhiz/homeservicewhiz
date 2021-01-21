@@ -260,16 +260,6 @@
             },
             {
                 "type": "action",
-                "label": "GitHub",
-                "url": "https://facebook.com",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.instagram.com",
                 "style": "link",
