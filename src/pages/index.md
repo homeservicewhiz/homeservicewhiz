@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/fabulous-cabbage.svg
       - type: grid_item
-        image: /images/good-giraffe.svg
+        image: /images/fierce-cabbage.svg
         image_alt: Gatsby logo
         image_align: center
         image_position: left
