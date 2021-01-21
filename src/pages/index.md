@@ -121,7 +121,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         image_position: top
-        image_width: fifty
+        image_width: twenty-five
         image_has_padding: true
       - type: grid_item
         image: images/logo-4.svg
