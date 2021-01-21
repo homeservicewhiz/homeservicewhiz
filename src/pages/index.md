@@ -74,7 +74,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image: /images/Sheild.svg
+        image: /images/square-pine.svg
       - type: grid_item
         title: Flexible
         title_align: center
