@@ -117,7 +117,6 @@ sections:
         image_has_padding: true
         image: /images/Home Warranties.svg
       - type: grid_item
-        image: /images/Moving.svg
         image_alt: Netlify logo
         image_align: center
       - type: grid_item
