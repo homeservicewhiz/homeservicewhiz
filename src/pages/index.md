@@ -121,7 +121,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
       - type: grid_item
-        image: images/logo-3.svg
+        image: /images/Plumbing.svg
         image_alt: Gatsby logo
         image_align: center
       - type: grid_item
