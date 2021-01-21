@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/fabulous-cabbage.svg
+        image: /images/Home Remodeling1.svg
       - type: grid_item
         image: /images/fierce-cabbage.svg
         image_alt: Gatsby logo
