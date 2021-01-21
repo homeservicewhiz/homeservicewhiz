@@ -164,7 +164,7 @@ sections:
         type: grid_item
         image: /images/rofing.svg
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
