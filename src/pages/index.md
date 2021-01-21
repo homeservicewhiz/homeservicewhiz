@@ -74,7 +74,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image: /images/square-pine.svg
+        image: /images/groovy-avocado.svg
       - type: grid_item
         title: Flexible
         title_align: center
@@ -92,7 +92,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/flexible.svg
+        image: /images/square-yam.svg
         image_alt: Happy customer
         image_position: top
         image_align: center
