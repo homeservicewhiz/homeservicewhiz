@@ -122,6 +122,7 @@ sections:
         image_align: center
         image_position: top
         image_width: fifty
+        image_has_padding: true
       - type: grid_item
         image: images/logo-4.svg
         image_alt: Sanity logo
