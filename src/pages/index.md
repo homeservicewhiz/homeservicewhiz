@@ -147,6 +147,7 @@ sections:
         image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
+        image_has_padding: true
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
