@@ -129,7 +129,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: images/logo-5.svg
+        image: /images/Bathroom Remodel.svg
         image_alt: DatoCMS logo
         image_align: center
         image_has_padding: true
