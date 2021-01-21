@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/superb-daffodil.svg
+        image: /images/fabulous-cabbage.svg
       - type: grid_item
         image: /images/good-giraffe.svg
         image_alt: Gatsby logo
