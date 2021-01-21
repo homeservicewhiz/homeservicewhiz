@@ -120,6 +120,7 @@ sections:
         image: /images/Garage Door.svg
         image_alt: Gatsby logo
         image_align: center
+        image_position: top
       - type: grid_item
         image: images/logo-4.svg
         image_alt: Sanity logo
