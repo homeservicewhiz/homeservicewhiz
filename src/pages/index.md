@@ -148,8 +148,8 @@ sections:
         image_alt: Git logo
         image_align: center
         image_has_padding: true
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - title: ''
+        subtitle: ''
         title_align: left
         content: |
           *
