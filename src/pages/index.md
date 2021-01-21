@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/super-apple.svg
+        image: /images/superb-daffodil.svg
       - type: grid_item
         image: /images/Garage Door.svg
         image_alt: Gatsby logo
