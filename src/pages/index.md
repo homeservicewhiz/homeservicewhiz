@@ -163,6 +163,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
+        image: /images/rofing.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
