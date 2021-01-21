@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/superb-daffodil.svg
       - type: grid_item
-        image: /images/Garage Door.svg
+        image: /images/good-giraffe.svg
         image_alt: Gatsby logo
         image_align: center
         image_position: left
