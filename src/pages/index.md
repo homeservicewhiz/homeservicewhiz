@@ -124,7 +124,7 @@ sections:
         image_width: twenty-five
         image_has_padding: true
       - type: grid_item
-        image: /images/nervous-comet.svg
+        image: /images/neat-triceratops.svg
         image_alt: Sanity logo
         image_align: center
         image_has_padding: true
