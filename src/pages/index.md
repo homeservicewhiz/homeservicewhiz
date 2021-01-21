@@ -121,6 +121,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         image_position: top
+        image_width: fifty
       - type: grid_item
         image: images/logo-4.svg
         image_alt: Sanity logo
