@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/rofing.svg
+        image: /images/terrific-petunia.svg
       - title: ''
         subtitle: ''
         title_align: left
