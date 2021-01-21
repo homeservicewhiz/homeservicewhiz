@@ -187,6 +187,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
+        image: /images/Appliance Repair.svg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
