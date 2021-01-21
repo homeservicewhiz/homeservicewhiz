@@ -137,6 +137,7 @@ sections:
         image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
+        image_has_padding: true
       - type: grid_item
         image: images/logo-7.svg
         image_alt: Gridsome logo
