@@ -47,7 +47,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/pleasant-zebra.svg
+        image: /images/superb-crane.svg
         image_alt: Quick service icon
         image_position: top
         image_align: center
