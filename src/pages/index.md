@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/Home Warranties.svg
       - type: grid_item
-        image: /images/Plumbing.svg
+        image: /images/smiling-rabbit.svg
         image_alt: Gatsby logo
         image_align: center
       - type: grid_item
