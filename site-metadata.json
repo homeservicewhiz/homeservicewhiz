@@ -249,7 +249,7 @@
             },
             {
                 "type": "action",
-                "label": "LinkedIn",
+                "label": "Facebook",
                 "url": "https://www.instagram.com",
                 "style": "link",
                 "has_icon": true,
