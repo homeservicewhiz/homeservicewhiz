@@ -16,7 +16,8 @@ sections:
         label: Schedule Call
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: >-
+      /images/tea-coffee-mug-drawings-construction-tools-construction-repair_112337-2318.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
