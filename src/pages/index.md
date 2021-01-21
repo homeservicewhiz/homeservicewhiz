@@ -120,7 +120,7 @@ sections:
         image: /images/Garage Door.svg
         image_alt: Gatsby logo
         image_align: center
-        image_position: top
+        image_position: left
         image_width: twenty-five
         image_has_padding: true
       - type: grid_item
