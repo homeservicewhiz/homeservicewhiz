@@ -139,7 +139,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: images/logo-7.svg
+        image: /images/Home Remodeling.svg
         image_alt: Gridsome logo
         image_align: center
         image_has_padding: true
