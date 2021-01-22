@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/terrific-petunia.svg
+        image: /images/Appliance Repair1.svg
       - title: ''
         subtitle: ''
         title_align: left
