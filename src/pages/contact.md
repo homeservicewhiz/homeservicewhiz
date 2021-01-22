@@ -22,7 +22,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: contact
-    form_action: lorem-ipsum
+    form_action: Submit
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
