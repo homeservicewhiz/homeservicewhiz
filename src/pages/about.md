@@ -9,7 +9,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
