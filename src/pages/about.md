@@ -30,7 +30,7 @@ sections:
     background_color: primary
   - title: ''
     subtitle: ''
-    content: "## At HomeServiceWhiz, we believe that a\_**calm mind**\_and\_**happy home**\_are the foundations of a\_**peaceful\_**and\_**just world**.\n\n\n\nWe are advancing our mission of\_**building a better world**\_for future generations by helping our patrons keep calm and *reduce unnecessary stress* associated with home improvement, maintenance, and restoration projects. And by *saving their time* so they can spend it cherishing life with people they **love.**\n\n\n\n"
+    content: "## At HomeServiceWhiz, we believe that a\_**calm mind**\_and\_**happy home**\_are the foundations of a\_peaceful\_and\_**just world**.\n\nWe are advancing our mission of\_**building a better world**\_for future generations by helping our patrons keep calm and *reduce unnecessary stress* associated with home improvement, maintenance, and restoration projects. And by *saving their time* so they can spend it cherishing life with people they **love.**\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
