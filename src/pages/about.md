@@ -6,7 +6,13 @@ sections:
     subtitle: 'Making this world a better place, one home at a time.'
     align: center
     background_color: primary
-  - title: ''
+  - title: >-
+      At homeServiceWhiz, we believe that a calm mind and happy home are the
+      foundations of a peaceful and just world.   We aim to eradicate
+      unnecessary stress caused due to home improvement, maintenance, and
+      repair. And, save your time so you can invest it in things that matter
+      most.   We are HomeServiceWhiz - Your one-stop solution provider for
+      everything home.
     subtitle: ''
     features: []
     feature_padding_vert: medium
