@@ -30,17 +30,7 @@ sections:
     background_color: primary
   - title: ''
     subtitle: ''
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## At HomeServiceWhiz, we believe that a\_**calm mind**\_and\_**happy home**\_are the foundations of a\_**peaceful\_**and\_**just world**.\n\n\n\nWe are advancing our mission of\_**building a better world**\_for future generations by helping our patrons keep calm and *reduce unnecessary stress* associated with home improvement, maintenance, and restoration projects. And by *saving their time* so they can spend it cherishing life with people they **love.**\n\n\n\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
