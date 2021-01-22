@@ -63,7 +63,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: lorem-ipsum
+  - title: ''
     content: >-
       ## Lorem ipsum
 
