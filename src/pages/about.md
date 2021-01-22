@@ -9,7 +9,7 @@ sections:
   - title: >-
       At HomeServiceWhiz, we believe that a calm mind and happy home are the
       foundations of a peaceful and just world.
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
