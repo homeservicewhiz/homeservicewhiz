@@ -14,7 +14,7 @@ sections:
     background_image_position: center top
   - title: ''
     subtitle: ''
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
