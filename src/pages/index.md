@@ -144,7 +144,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/spectacular-europa.svg
+        image: /images/Garage Door1.svg
         image_alt: Git logo
         image_align: center
         image_has_padding: true
