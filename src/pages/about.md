@@ -7,13 +7,7 @@ sections:
     align: center
     background_color: primary
   - title: ''
-    subtitle: >-
-      At HomeServiceWhiz, we believe that a calm mind and happy home are the
-      foundations of a peaceful and just world.  We are advancing our mission of
-      building a better world for future generations by helping our patrons keep
-      calm and reduce unnecessary stress associated with home improvement,
-      maintenance, and restoration projects. And by saving their time so they
-      can spend it cherishing life with people they love.
+    subtitle: ''
     features: []
     feature_padding_vert: medium
     align: center
