@@ -11,6 +11,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: primary
+    background_image_position: center top
   - type: grid_section
     grid_items:
       - type: grid_item
