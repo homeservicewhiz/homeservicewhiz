@@ -16,7 +16,7 @@ sections:
         label: Schedule Call
         url: /features
         style: secondary
-    image: /images/couple-renovating-their-house_132469-7.jpg
+    image: /images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
