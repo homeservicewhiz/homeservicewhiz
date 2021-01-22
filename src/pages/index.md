@@ -92,7 +92,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/pleasant-tiger.svg
+        image: /images/flexible_1-new.svg
         image_alt: Happy customer
         image_position: top
         image_align: center
