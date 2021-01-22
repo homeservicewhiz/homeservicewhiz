@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/majestic-saturn.svg
       - type: grid_item
-        image: /images/lock-smith1.svg
+        image: /images/remarkable-oak.svg
         image_alt: Gatsby logo
         image_align: center
         image_position: left
