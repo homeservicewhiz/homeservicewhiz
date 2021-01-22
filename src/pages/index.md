@@ -74,7 +74,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image: /images/unique-eucalyptus.svg
+        image: /images/Secure_1-new.svg
       - type: grid_item
         title: Flexible
         title_align: center
