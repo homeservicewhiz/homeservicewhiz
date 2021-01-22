@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Keep Calm and cherish life.
+    title: Keep calm and cherish life.
     subtitle: ''
     align: center
     background_color: primary
