@@ -20,7 +20,7 @@ sections:
     form_position: bottom
     form_width: fourty
     form_layout: stacked
-    enable_card: false
+    enable_card: true
     form_id: contact
     form_action: Submit
     form_fields:
