@@ -162,7 +162,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/Appliance Repair1.png
+        image: /images/magnificent-mint.png
       - title: ''
         subtitle: ''
         title_align: left
