@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/splendid-lettuce.svg
+        image: /images/majestic-saturn.svg
       - type: grid_item
         image: /images/lock-smith1.svg
         image_alt: Gatsby logo
