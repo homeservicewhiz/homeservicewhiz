@@ -6,7 +6,9 @@ sections:
     subtitle: 'Making this world a better place, one home at a time.'
     align: center
     background_color: primary
-  - title: ''
+  - title: >-
+      At HomeServiceWhiz, we believe that a calm mind and happy home are the
+      foundations of a peaceful and just world.
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
