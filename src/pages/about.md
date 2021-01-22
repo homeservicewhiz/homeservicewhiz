@@ -1,5 +1,5 @@
 ---
-title: Keep Calm and Cherish Life.
+title: About
 sections:
   - type: hero_section
     title: About
