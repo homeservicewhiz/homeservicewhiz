@@ -129,7 +129,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/Plumbing1.png
+        image: /images/knowledgeable-lime.png
         image_alt: DatoCMS logo
         image_align: center
         image_has_padding: true
