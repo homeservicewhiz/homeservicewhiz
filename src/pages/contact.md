@@ -27,7 +27,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: Please enter your
+        default_value: Name*
         options: []
         is_required: false
         type: form_field
