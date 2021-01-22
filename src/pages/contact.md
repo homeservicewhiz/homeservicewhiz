@@ -15,17 +15,7 @@ sections:
   - title: ''
     subtitle: ''
     title_align: center
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     content_align: left
     form_position: bottom
     form_width: fifty
