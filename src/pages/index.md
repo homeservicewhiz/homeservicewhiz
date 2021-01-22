@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/Home Remodeling1.svg
       - type: grid_item
-        image: /images/fierce-cabbage.svg
+        image: /images/lock-smith1.svg
         image_alt: Gatsby logo
         image_align: center
         image_position: left
