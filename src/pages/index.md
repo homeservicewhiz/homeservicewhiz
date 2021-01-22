@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/neat-zucchini.svg
+        image: /images/remarkable-whale.png
       - type: grid_item
         image: /images/remarkable-oak.svg
         image_alt: Gatsby logo
