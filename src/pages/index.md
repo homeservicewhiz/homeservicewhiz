@@ -139,7 +139,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/Pest Control1.svg
+        image: /images/Pest Control1.png
         image_alt: Gridsome logo
         image_align: center
         image_has_padding: true
