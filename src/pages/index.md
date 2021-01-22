@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/Home Remodeling1.png
       - type: grid_item
-        image: /images/remarkable-oak.svg
+        image: /images/Bathroom Remodel1.png
         image_alt: Gatsby logo
         image_align: center
         image_position: left
