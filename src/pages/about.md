@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Keep calm and cherish life.
-    subtitle: ''
+    subtitle: 'Making this world a better place, one home at a time.'
     align: center
     background_color: primary
   - title: lorem-ipsum
