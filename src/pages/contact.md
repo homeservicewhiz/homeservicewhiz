@@ -23,14 +23,7 @@ sections:
     enable_card: true
     form_id: contact
     form_action: Submit
-    form_fields:
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
+    form_fields: []
     submit_label: Submit
     align_vert: top
     padding_top: medium
