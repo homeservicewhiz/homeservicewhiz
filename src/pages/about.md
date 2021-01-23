@@ -27,7 +27,7 @@ sections:
   - title: Our Process
     subtitle: ''
     features:
-      - title: lorem-ipsum
+      - title: Schedule a visit
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
