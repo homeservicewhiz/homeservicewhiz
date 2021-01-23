@@ -1,6 +1,6 @@
 ---
 title: Services
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - type: hero_section
     title: HOME REMODELING DONE RIGHT!
