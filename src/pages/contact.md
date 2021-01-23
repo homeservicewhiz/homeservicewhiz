@@ -65,7 +65,7 @@ sections:
     type: grid_section
   - title: >-
       Alternatively you can use the form below to send us an email and we will
-      get back to you at speed.
+      get back to you at 
     subtitle: ''
     title_align: center
     content: ''
