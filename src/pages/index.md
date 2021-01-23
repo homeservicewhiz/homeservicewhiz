@@ -161,7 +161,7 @@ sections:
         image_has_padding: true
         title: Garage Door Replacement
         title_align: center
-      - title: ''
+      - title: Appliance Repair
         subtitle: ''
         title_align: left
         content: ''
