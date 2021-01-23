@@ -65,7 +65,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Our Office
         subtitle: lorem-ipsum
         title_align: left
         content: >-
