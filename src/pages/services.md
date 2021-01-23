@@ -71,7 +71,7 @@ sections:
         actions_align: left
         image: /images/flexible_1-new.svg
         image_alt: flexible payment plans
-        image_position: top
+        image_position: left
         image_align: center
         image_has_padding: true
     grid_cols: three
