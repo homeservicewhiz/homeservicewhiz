@@ -194,7 +194,7 @@ sections:
         type: grid_item
         image: /images/rofingblue.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: ''
         content_align: left
