@@ -123,6 +123,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
+        title: Locksmith
       - type: grid_item
         image: /images/Water Damage.png
         image_alt: Sanity logo
