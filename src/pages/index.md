@@ -206,7 +206,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/rofing.png
-      - title: ''
+      - title: Home Warrenties
         subtitle: ''
         title_align: left
         content: ''
