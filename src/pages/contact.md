@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Get in touch
-    subtitle: Want to
+    subtitle: Want to contact us ? We would love to hear from you.
     align: center
     padding_top: small
     padding_bottom: small
