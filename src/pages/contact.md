@@ -106,7 +106,7 @@ sections:
         type: form_field
     submit_label: Submit
     align_vert: middle
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     has_border: false
     background_color: primary
