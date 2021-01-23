@@ -145,7 +145,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/Garage Doorblue.png
+        image: /images/Garage Door.png
         image_alt: Git logo
         image_align: center
         image_has_padding: true
