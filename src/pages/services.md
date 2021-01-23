@@ -78,7 +78,7 @@ sections:
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
-    align: left
+    align: center
     background_color: none
   - type: grid_section
     title: Our Services
