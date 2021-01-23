@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Get in touch
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    subtitle: Want to
     align: center
     padding_top: small
     padding_bottom: small
