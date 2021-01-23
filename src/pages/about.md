@@ -44,7 +44,8 @@ sections:
       - title: Arrival
         subtitle: >-
           Our partner professional arrives at your location with all the tools
-          and equipments required for the job. Our 
+          and equipments required for the job. Our pro will review the job and
+          will let you know the time required to complete before 
         content: >-
           ## Lorem ipsum
 
