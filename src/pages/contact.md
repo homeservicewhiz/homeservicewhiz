@@ -12,7 +12,7 @@ sections:
     background_image_position: center top
   - title: Let's have a chat
     subtitle: ''
-    title_align: left
+    title_align: center
     content: >
       Want to discuss your project with someone over the phone ?
 
