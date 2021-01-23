@@ -38,14 +38,7 @@ sections:
           Looking for a same day home service provider ? Or maybe you have a
           plumbing emergency. Our local pros can be at your doorstep in no time.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/quick_1-new.svg
         image_alt: Quick service icon
