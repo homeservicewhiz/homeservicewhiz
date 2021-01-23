@@ -32,7 +32,7 @@
             },
             {
                 "type": "action",
-                "label": "contact",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             }
