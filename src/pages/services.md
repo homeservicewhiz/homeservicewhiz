@@ -18,7 +18,7 @@ sections:
         url: /features
         style: secondary
     image: /images/Asset 2.png
-    image_alt: home
+    image_alt: above the fold image
     media_position: left
     media_width: fifty
     align: center
