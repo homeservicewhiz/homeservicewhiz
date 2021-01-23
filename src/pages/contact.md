@@ -87,17 +87,14 @@ sections:
       - title: Call Us
         subtitle: We are available on phone between 9 AM to 6 PM EST
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## +1-800-456-0000
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Alternatively you can use the form below to send us an email and we
+          will get back to you at lightening speed.
         content_align: left
         actions: []
         actions_align: left
