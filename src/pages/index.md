@@ -193,7 +193,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/rofingblue.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: ''
