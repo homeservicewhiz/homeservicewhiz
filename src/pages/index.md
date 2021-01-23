@@ -149,6 +149,7 @@ sections:
         image_has_padding: true
         title: Plumbing
         content_align: center
+        title_align: center
       - type: grid_item
         image: /images/successful-europa.png
         image_alt: Gridsome logo
