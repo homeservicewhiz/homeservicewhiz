@@ -37,7 +37,7 @@ sections:
         content: >
           Looking for a same day home service provider ? Or maybe you have a
           plumbing emergency. Our local pros can be at your doorstep in no time.
-        content_align: center
+        content_align: left
         actions:
           - type: action
             label: Learn More
