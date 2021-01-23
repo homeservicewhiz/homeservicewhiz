@@ -64,7 +64,9 @@ sections:
         align: left
         type: feature
       - title: Happiness!
-        subtitle: Once the job is completed
+        subtitle: >-
+          We are confident about our workmanship, that's why we back it up with
+          our Happiness gurantee
         content: >-
           ## Lorem ipsum
 
