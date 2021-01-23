@@ -152,6 +152,7 @@ sections:
         image_alt: Gridsome logo
         image_align: center
         image_has_padding: true
+        title: Pest Control
       - type: grid_item
         image: /images/Garage Door.png
         image_alt: Git logo
