@@ -54,7 +54,7 @@ sections:
       - title: Job
         subtitle: >-
           Our pros can help pick-up the material required for the job or they
-          can start the work while you arrange the materials
+          can start the work while you arrange the materials required.
         content: >-
           ## Lorem ipsum
 
