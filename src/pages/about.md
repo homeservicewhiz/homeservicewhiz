@@ -52,6 +52,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/AdobeStock_302091475_Preview.jpeg
       - title: Job
         subtitle: >-
           Our pros can help pick-up the material required for the job or they
