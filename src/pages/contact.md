@@ -68,17 +68,13 @@ sections:
       - title: Our Office
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ## Home Service Whiz Inc.
 
+          2021 Manhatten Avenue
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Broadway, NY 12323
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
