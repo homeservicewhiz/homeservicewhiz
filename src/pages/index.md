@@ -223,7 +223,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/Home Warrantiesblue.png
+        image: /images/Moving.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
