@@ -266,7 +266,7 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: ''
     actions:
       - type: action
         label: View All
