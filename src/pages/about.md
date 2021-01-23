@@ -66,7 +66,7 @@ sections:
       - title: Happiness!
         subtitle: >-
           We are confident about our workmanship, that's why we back it up with
-          our Happiness gurantee
+          our Happiness gurantee.
         content: >-
           ## Lorem ipsum
 
