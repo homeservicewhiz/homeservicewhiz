@@ -64,7 +64,9 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: ''
-    subtitle: ''
+    subtitle: >-
+      Alternatively you can use the form below to send us an email and we will
+      get back to you at lightening speed.
     title_align: center
     content: ''
     content_align: center
