@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
       - title: Happiness!
-        subtitle: Once the job is completed you can review the work done
+        subtitle: Once the job is completed
         content: >-
           ## Lorem ipsum
 
