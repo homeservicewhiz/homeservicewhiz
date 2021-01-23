@@ -66,7 +66,8 @@ sections:
   - title: ''
     subtitle: ''
     title_align: center
-    content: ''
+    content: |
+      ## Send us an email by filling up the form below.
     content_align: center
     form_position: bottom
     form_width: fourty
