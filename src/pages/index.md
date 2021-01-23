@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/blue-sunflower.png
       - type: grid_item
-        image: /images/lock-smithblue.png
+        image: /images/lock-smith.png
         image_alt: Gatsby logo
         image_align: center
         image_position: left
