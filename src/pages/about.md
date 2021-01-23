@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
       - title: Happiness!
-        subtitle: lorem-ipsum
+        subtitle: We are confident about our craftmanship
         content: >-
           ## Lorem ipsum
 
