@@ -2,7 +2,7 @@
     "title": "HomeServiceWhiz",
     "description": "",
     "layout": "boxed",
-    "style": "bold",
+    "style": "classic",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
