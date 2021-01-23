@@ -42,7 +42,9 @@ sections:
         align: left
         type: feature
       - title: Arrival
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Our partner professional arrives at your location with all the tools
+          and equipments required for the job
         content: >-
           ## Lorem ipsum
 
