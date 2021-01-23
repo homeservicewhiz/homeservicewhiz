@@ -27,7 +27,7 @@
             {
                 "type": "action",
                 "label": "Blog",
-                "url": "/pricing",
+                "url": "/blog",
                 "style": "link"
             },
             {
