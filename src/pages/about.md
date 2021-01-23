@@ -39,6 +39,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/thoughtful-olive.jpeg
       - title: Arrival
         subtitle: >-
           Our partner professional arrives at your location with all the tools
