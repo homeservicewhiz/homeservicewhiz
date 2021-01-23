@@ -32,7 +32,7 @@ sections:
     subtitle: ''
     grid_items:
       - type: grid_item
-        title: Quick
+        title: Lightening Fast
         title_align: center
         content: >+
           Our quick turnaround time helps you save yours to live your life doing
