@@ -110,7 +110,7 @@ sections:
         type: form_field
     submit_label: Submit
     align_vert: middle
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: true
     background_color: secondary
