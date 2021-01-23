@@ -11,7 +11,7 @@ sections:
     background_color: primary
     background_image_position: center top
   - title: Let's have a conversation
-    subtitle: 'Please '
+    subtitle: 'Please fill up the form below and our '
     title_align: center
     content: >
       Want to discuss your project with someone over the phone ?
