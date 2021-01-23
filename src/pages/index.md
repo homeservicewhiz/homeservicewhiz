@@ -159,7 +159,7 @@ sections:
         image_alt: Git logo
         image_align: center
         image_has_padding: true
-        title: 'Garage '
+        title: Garage Door Replaceme
       - title: ''
         subtitle: ''
         title_align: left
