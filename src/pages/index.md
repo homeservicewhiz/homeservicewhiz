@@ -148,6 +148,7 @@ sections:
         image_align: center
         image_has_padding: true
         title: Water Damage
+        content_align: center
       - type: grid_item
         image: /images/successful-europa.png
         image_alt: Gridsome logo
