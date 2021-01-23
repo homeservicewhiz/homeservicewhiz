@@ -63,10 +63,9 @@ sections:
       - type: grid_item
         title: Flexible Plans
         title_align: left
-        content: >+
-          Payment plans allow you to pay over time without any additional
-          charges. Book now and pay later.
-
+        content: >
+          Our NO BS payment plans allow you to spread out the cost over time
+          without any additional charges.
         content_align: center
         actions:
           - type: action
