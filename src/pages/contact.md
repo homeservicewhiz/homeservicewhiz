@@ -10,59 +10,6 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: Let's have a conversation
-    subtitle: ''
-    actions: []
-    grid_items:
-      - title: Our Office
-        subtitle: ''
-        title_align: left
-        content: |
-          ## HomeServiceWhiz
-
-          2021 Manhatten Avenue
-
-          Broadway, NY 12323
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Call Us
-        subtitle: We are available on phone between 9 AM to 6 PM EST
-        title_align: left
-        content: |+
-          ## +1-800-456-0000
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: two
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
   - title: ''
     subtitle: ''
     title_align: left
