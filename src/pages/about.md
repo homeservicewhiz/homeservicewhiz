@@ -40,7 +40,7 @@ sections:
         align: left
         type: feature
         image: /images/thoughtful-olive.jpeg
-      - title: Our pro arrive
+      - title: Our pro arrives
         subtitle: >-
           Our partner professional arrives at your location with all the tools
           and equipments required for the job
