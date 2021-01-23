@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
       - title: Happiness!
-        subtitle: 'We are confident about our craftmanship, that''s why '
+        subtitle: 'Once the job is completed you can review the work '
         content: >-
           ## Lorem ipsum
 
