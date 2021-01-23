@@ -55,7 +55,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image_alt: sheild icon
+        image_alt: Lock Icon
         image_position: top
         image_align: center
         image_has_padding: true
