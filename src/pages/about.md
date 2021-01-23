@@ -52,7 +52,7 @@ sections:
         align: left
         type: feature
       - title: Job
-        subtitle: ''
+        subtitle: 'Our pros '
         content: >-
           ## Lorem ipsum
 
