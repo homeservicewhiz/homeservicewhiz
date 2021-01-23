@@ -52,7 +52,9 @@ sections:
         align: left
         type: feature
       - title: Job
-        subtitle: 'Our pros can '
+        subtitle: >-
+          Our pros can help pick-up the material required for the job or they
+          can start the work while you 
         content: >-
           ## Lorem ipsum
 
