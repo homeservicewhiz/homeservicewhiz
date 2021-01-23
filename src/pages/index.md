@@ -72,7 +72,7 @@ sections:
         actions_align: left
         image_alt: sheild icon
         image_position: top
-        image_align: center
+        image_align: left
         image_has_padding: true
         image: /images/Secure_1-new.svg
       - type: grid_item
