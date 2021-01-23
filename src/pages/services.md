@@ -43,7 +43,7 @@ sections:
         image: /images/quick_1-new.svg
         image_alt: lightning fast service
         image_position: top
-        image_align: left
+        image_align: right
         image_has_padding: true
         image_width: twenty-five
       - type: grid_item
