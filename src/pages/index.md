@@ -178,7 +178,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/Bathroom Remodelblue.png
+        image: /images/Bathroom Remodel.png
       - title: ''
         subtitle: ''
         title_align: left
