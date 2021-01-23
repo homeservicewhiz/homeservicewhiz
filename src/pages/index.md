@@ -178,7 +178,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/Bathroom Remodelblue.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         title_align: left
         content: >-
