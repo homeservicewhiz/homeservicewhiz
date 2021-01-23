@@ -208,7 +208,7 @@ sections:
         image: /images/rofing.png
       - title: Home Warrenties
         subtitle: ''
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
