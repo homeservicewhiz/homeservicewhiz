@@ -135,7 +135,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/Mold Remediationblue.png
+        image: /images/Mold Remediation.png
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
