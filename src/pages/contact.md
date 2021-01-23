@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Get in touch
+    title: Let's have a conversation
     subtitle: Want to contact us ? We would love to hear from you.
     align: center
     padding_top: small
