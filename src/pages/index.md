@@ -85,7 +85,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Learn More
+            label: ''
             url: /style-guide
             style: link
             has_icon: true
