@@ -60,7 +60,7 @@ sections:
           Our transparent annual warranties cover most repairs, renovations, and
           appliances, which means your peace is guaranteed.
 
-        content_align: center
+        content_align: left
         actions:
           - type: action
             label: ''
