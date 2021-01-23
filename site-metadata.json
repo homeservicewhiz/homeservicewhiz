@@ -33,7 +33,7 @@
             {
                 "type": "action",
                 "label": "contact",
-                "url": "/blog",
+                "url": "/contact",
                 "style": "link"
             }
         ],
