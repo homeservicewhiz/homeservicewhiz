@@ -47,17 +47,7 @@ sections:
           and equipments required for the job. Our pro will review the job and
           will let you know the time required to complete before beginning the
           job.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
