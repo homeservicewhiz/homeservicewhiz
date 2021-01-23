@@ -136,6 +136,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
         image_has_padding: true
+        title: Plumbing
       - type: grid_item
         image: /images/Mold Remediation.png
         image_alt: Next.js logo
