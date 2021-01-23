@@ -80,6 +80,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    has_border: true
   - type: grid_section
     title: Our Services
     subtitle: Valar dohaeris "All men must serve"
