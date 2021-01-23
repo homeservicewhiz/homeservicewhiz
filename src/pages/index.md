@@ -221,7 +221,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/Home Warranties.png
-      - title: ''
+      - title: Moving
         subtitle: ''
         title_align: left
         content: ''
