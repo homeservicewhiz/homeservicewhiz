@@ -45,7 +45,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_width: twenty-five
+        image_width: thirty-three
       - type: grid_item
         title: Safe
         title_align: center
