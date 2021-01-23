@@ -110,7 +110,7 @@ sections:
       - type: grid_item
         image_alt: home remodeling
         image_align: center
-        title: ''
+        title: Ho
         title_align: center
         image_position: left
         image_width: twenty-five
