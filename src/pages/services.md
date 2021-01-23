@@ -70,7 +70,7 @@ sections:
         actions: []
         actions_align: left
         image: /images/flexible_1-new.svg
-        image_alt: Happy customer
+        image_alt: flexible payment plans
         image_position: top
         image_align: center
         image_has_padding: true
