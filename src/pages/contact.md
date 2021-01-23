@@ -62,17 +62,29 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: ''
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # Ready to take the first step towards your home improvement project. Fill
+      out the form below or reach out to us over the phone.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      ## Our Office
 
-      - dolor sit amet
+
+      HomeServiceWhiz
+
+
+      000 Digital Street
+
+
+      Chicago, IL 60784
+
+
+      ### Contact Number
+
+
+      \+1-800-456-0000
     actions: []
     actions_position: bottom
     actions_width: fourty
