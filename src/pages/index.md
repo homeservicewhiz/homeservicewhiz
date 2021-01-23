@@ -178,7 +178,7 @@ sections:
         image: /images/Appliance Repair.png
       - title: Bathtub Replacement
         subtitle: ''
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
