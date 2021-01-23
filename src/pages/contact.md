@@ -112,7 +112,7 @@ sections:
     align_vert: middle
     padding_top: none
     padding_bottom: none
-    has_border: true
+    has_border: false
     background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
