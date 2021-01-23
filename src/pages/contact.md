@@ -111,7 +111,7 @@ sections:
     submit_label: Submit
     align_vert: middle
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     has_border: true
     background_color: secondary
     background_image_opacity: 0
