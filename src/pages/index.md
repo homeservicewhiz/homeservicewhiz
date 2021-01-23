@@ -193,7 +193,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: /images/rofingblue.png
+        image: /images/rofing.png
       - title: ''
         subtitle: ''
         title_align: left
