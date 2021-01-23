@@ -10,7 +10,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: ''
+  - title: Let's have a chat
     subtitle: ''
     title_align: left
     content: >
