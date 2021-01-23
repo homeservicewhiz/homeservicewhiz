@@ -65,6 +65,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/AdobeStock_302091475_Preview.jpeg
       - title: Happiness!
         subtitle: >-
           We are confident about our workmanship, that's why we back it up with
