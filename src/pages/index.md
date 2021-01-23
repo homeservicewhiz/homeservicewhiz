@@ -123,7 +123,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_has_padding: true
-        title: Locksmith
+        title: Locksmith Service
         content_align: center
         title_align: center
       - type: grid_item
