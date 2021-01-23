@@ -53,7 +53,7 @@ sections:
         align: left
         type: feature
         image: /images/AdobeStock_302091475_Preview.jpeg
-      - title: Job
+      - title: The Job begins
         subtitle: >-
           Our pros can help pick-up the material required for the job or they
           can start the work while you arrange the materials required.
