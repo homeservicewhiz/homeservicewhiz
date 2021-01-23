@@ -32,7 +32,7 @@
             },
             {
                 "type": "action",
-                "label": "Blog",
+                "label": "contact",
                 "url": "/blog",
                 "style": "link"
             }
