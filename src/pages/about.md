@@ -81,7 +81,7 @@ sections:
         image: /images/AdobeStock_302091475_Preview.jpeg
     feature_padding_vert: medium
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
