@@ -61,7 +61,7 @@ sections:
         image_has_padding: true
         image: /images/Secure_1-new.svg
       - type: grid_item
-        title: Flexible
+        title: Flexible Plans
         title_align: center
         content: >+
           Payment plans allow you to pay over time without any additional
