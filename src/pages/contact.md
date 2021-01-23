@@ -66,8 +66,21 @@ sections:
   - title: ''
     subtitle: ''
     title_align: left
-    content: |
-      ## Send us an email by filling up the form below.
+    content: >
+      ### Billing
+
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+
+
+      ### Privacy
+
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
     content_align: center
     form_position: bottom
     form_width: fourty
