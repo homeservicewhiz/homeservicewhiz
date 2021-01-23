@@ -176,7 +176,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/Appliance Repair.png
-      - title: ''
+      - title: Bathtub Replacement
         subtitle: ''
         title_align: left
         content: ''
