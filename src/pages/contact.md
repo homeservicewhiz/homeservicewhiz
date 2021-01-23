@@ -85,7 +85,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Call Us
-        subtitle: lorem-ipsum
+        subtitle: We are available on phone between 9 AM to 6 PM EST
         title_align: left
         content: >-
           ## Lorem ipsum
