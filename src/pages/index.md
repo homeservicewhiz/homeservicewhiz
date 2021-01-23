@@ -223,7 +223,7 @@ sections:
         image: /images/Home Warranties.png
       - title: Moving
         subtitle: ''
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
