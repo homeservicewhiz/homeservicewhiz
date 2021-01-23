@@ -61,7 +61,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: lorem-ipsum
+  - title: Let's have a conversation
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
