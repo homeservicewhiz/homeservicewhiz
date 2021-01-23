@@ -67,14 +67,7 @@ sections:
           Our NO BS payment plans allow you to spread out the cost over time
           without any additional charges.
         content_align: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/flexible_1-new.svg
         image_alt: Happy customer
