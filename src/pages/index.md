@@ -120,7 +120,7 @@ sections:
         image: /images/lock-smith.png
         image_alt: Gatsby logo
         image_align: center
-        image_position: top
+        image_position: left
         image_width: twenty-five
         image_has_padding: true
         title: Locksmith
@@ -140,7 +140,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        image: /images/Pest Controlblue.png
+        image: /images/Pest Control.png
         image_alt: Gridsome logo
         image_align: center
         image_has_padding: true
