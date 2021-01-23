@@ -33,7 +33,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Lightning Fast
-        title_align: center
+        title_align: left
         content: >
           Looking for a same day home service provider ? Or maybe you have a
           plumbing emergency. Our local pros can be at your doorstep in no time.
