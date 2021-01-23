@@ -27,7 +27,7 @@ sections:
   - title: Our Process
     subtitle: ''
     features:
-      - title: Schedule a visit
+      - title: Schedule
         subtitle: >-
           Fill up a simple form on our website to get an estimate or simply call
           us to request a service.
