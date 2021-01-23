@@ -55,17 +55,7 @@ sections:
         subtitle: >-
           Our pros can help pick-up the material required for the job or they
           can start the work while you arrange the materials required.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
