@@ -115,7 +115,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_has_padding: true
-        image: /images/blue-sunflower.png
+        image: /images/bathtub.png
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
