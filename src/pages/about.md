@@ -28,7 +28,7 @@ sections:
     subtitle: ''
     features:
       - title: Schedule a visit
-        subtitle: lorem-ipsum
+        subtitle: 'Fill up '
         content: >-
           ## Lorem ipsum
 
