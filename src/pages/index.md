@@ -127,7 +127,7 @@ sections:
         content_align: center
         title_align: center
       - type: grid_item
-        image: /images/Water Damage.png
+        image: /images/great-hickory.png
         image_alt: Sanity logo
         image_align: center
         image_has_padding: true
