@@ -18,7 +18,7 @@ sections:
         url: /features
         style: secondary
     image: /images/Asset 2.png
-    image_alt: Hero section placeholder image
+    image_alt: home
     media_position: left
     media_width: fifty
     align: center
