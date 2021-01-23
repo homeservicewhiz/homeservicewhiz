@@ -42,7 +42,7 @@ sections:
         actions_align: left
         image: /images/quick_1-new.svg
         image_alt: lightning fast service
-        image_position: left
+        image_position: top
         image_align: center
         image_has_padding: true
         image_width: twenty-five
