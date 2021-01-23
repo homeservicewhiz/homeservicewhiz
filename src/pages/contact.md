@@ -13,20 +13,15 @@ sections:
   - title: ''
     subtitle: ''
     title_align: left
-    content: |
-      ## Our Office address
-
-      2021 Manhatten Avenue
-
-      Broadway, NY 12323
+    content: >
+      Want to discuss your project with someone over the phone ?
 
 
+      Our home improvement experts are waiting to answer your phone. Call us on
+      the number below between 9 AM to 5 PM EST.
 
-      ### Call Us
 
-      We are available on phone between 9 AM to 6 PM EST
-
-      #### +1-800-456-0000
+      ## +1-800-456-0000
     content_align: left
     form_position: right
     form_width: fifty
