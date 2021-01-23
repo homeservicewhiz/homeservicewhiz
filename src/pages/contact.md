@@ -62,7 +62,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: Let's have a conversation
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: two
