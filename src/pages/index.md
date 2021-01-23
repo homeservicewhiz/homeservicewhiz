@@ -129,6 +129,7 @@ sections:
         image_alt: Sanity logo
         image_align: center
         image_has_padding: true
+        image_position: top
       - type: grid_item
         image: /images/Plumbing.png
         image_alt: DatoCMS logo
