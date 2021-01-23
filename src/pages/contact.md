@@ -13,22 +13,21 @@ sections:
   - title: ''
     subtitle: ''
     title_align: left
-    content: |
-      ## Our Office
+    content: |+
+      **Call Us**
 
-      Home Service Whiz
+      We are available on phone between 9 AM to 6 PM EST
+
+      **+1-800-456-0000**
+
+
+
+      **Our Office address**
 
       2021 Manhatten Avenue
 
       Broadway, NY 12323
 
-
-
-      ### Call Us
-
-      We are available on phone between 9 AM to 6 PM EST
-
-      #### +1-800-456-0000
     content_align: left
     form_position: right
     form_width: fifty
