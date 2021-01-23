@@ -52,7 +52,7 @@ sections:
         align: left
         type: feature
       - title: Job
-        subtitle: 'Our pros are happy to use the material that you '
+        subtitle: Our pros are happy to use the material that you have bought
         content: >-
           ## Lorem ipsum
 
