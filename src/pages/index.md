@@ -160,6 +160,7 @@ sections:
         image_align: center
         image_has_padding: true
         title: Garage Door Replacement
+        title_align: center
       - title: ''
         subtitle: ''
         title_align: left
