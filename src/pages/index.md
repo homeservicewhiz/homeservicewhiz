@@ -82,7 +82,7 @@ sections:
           Payment plans allow you to pay over time without any additional
           charges. Book now and pay later.
 
-        content_align: center
+        content_align: left
         actions:
           - type: action
             label: ''
