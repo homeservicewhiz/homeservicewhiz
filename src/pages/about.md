@@ -28,7 +28,9 @@ sections:
     subtitle: ''
     features:
       - title: Schedule a visit
-        subtitle: 'Fill up a simple '
+        subtitle: >-
+          Fill up a simple form on our website to get an estimate or simply call
+          us to request a service.
         content: >-
           ## Lorem ipsum
 
