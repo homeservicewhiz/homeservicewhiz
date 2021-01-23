@@ -95,7 +95,7 @@ sections:
     content: ''
     actions:
       - type: action
-        label: Schedule A Call
+        label: Call Now
         url: /pricing
         style: primary
       - label: Book Consultation
