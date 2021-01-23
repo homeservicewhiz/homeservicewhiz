@@ -158,7 +158,7 @@ sections:
         title: Pest Control
         title_align: center
       - type: grid_item
-        image: /images/Garage Door.png
+        image: /images/magical-robin.png
         image_alt: Git logo
         image_align: center
         image_has_padding: true
