@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
       - title: Happiness!
-        subtitle: We are confident about our craftmanship
+        subtitle: 'We are confident about our craftmanship, that''s why '
         content: >-
           ## Lorem ipsum
 
