@@ -241,7 +241,7 @@ sections:
     grid_gap_horiz: small
     align: center
     enable_cards: true
-    background_color: none
+    background_color: secondary
   - type: grid_section
     title: What our customers say
     subtitle: ''
