@@ -37,7 +37,7 @@ sections:
           Our quick turnaround time helps you save yours to live your life doing
           stuff you care about.
 
-        content_align: center
+        content_align: left
         actions:
           - type: action
             label: ''
