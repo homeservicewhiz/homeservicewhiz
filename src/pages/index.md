@@ -23,7 +23,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: small
-    background_color: none
+    background_color: primary
     has_border: false
     background_image_opacity: -3
   - type: grid_section
