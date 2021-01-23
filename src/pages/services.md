@@ -34,10 +34,9 @@ sections:
       - type: grid_item
         title: Lightning Fast
         title_align: center
-        content: >+
-          Our quick turnaround time helps you save yours to live your life doing
-          stuff you care about.
-
+        content: >
+          Looking for a same day home service provider ? Or maybe you have a
+          plumbing emergency. Our local pros can be at your doorstep in no time.
         content_align: center
         actions:
           - type: action
