@@ -130,6 +130,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
+        title: Mold Remediation
       - type: grid_item
         image: /images/Plumbing.png
         image_alt: DatoCMS logo
