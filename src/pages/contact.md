@@ -81,7 +81,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
-    content_align: center
+    content_align: left
     form_position: bottom
     form_width: fourty
     form_layout: stacked
