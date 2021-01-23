@@ -74,7 +74,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image: /images/Secure_1-new.svg
+        image: /images/royal-ant.svg
       - type: grid_item
         title: Flexible
         title_align: left
