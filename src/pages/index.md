@@ -115,7 +115,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_has_padding: true
-        image: /images/clever-mars.png
+        image: /images/Home Remodelingblue.png
       - type: grid_item
         image: /images/lock-smith1.png
         image_alt: Gatsby logo
