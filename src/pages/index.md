@@ -147,6 +147,7 @@ sections:
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
+        title: 'Water '
       - type: grid_item
         image: /images/successful-europa.png
         image_alt: Gridsome logo
