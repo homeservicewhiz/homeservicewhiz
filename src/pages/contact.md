@@ -68,13 +68,12 @@ sections:
       - title: Our Office
         subtitle: ''
         title_align: left
-        content: |+
-          ## Home Service Whiz Inc.
+        content: |
+          ## HomeServiceWhiz
 
           2021 Manhatten Avenue
 
           Broadway, NY 12323
-
         content_align: left
         actions: []
         actions_align: left
