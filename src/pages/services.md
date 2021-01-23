@@ -23,7 +23,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: small
-    padding_bottom: small
+    padding_bottom: none
     background_color: none
     has_border: false
     background_image_opacity: -3
