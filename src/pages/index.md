@@ -163,7 +163,7 @@ sections:
         title_align: center
       - title: Appliance Repair
         subtitle: ''
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
