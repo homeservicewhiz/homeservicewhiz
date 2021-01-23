@@ -86,7 +86,7 @@ sections:
         actions:
           - type: action
             label: ''
-            url: /style-guide
+            url: ''
             style: link
             has_icon: true
             icon: arrow-right
