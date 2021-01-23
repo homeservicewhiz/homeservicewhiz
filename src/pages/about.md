@@ -31,17 +31,7 @@ sections:
         subtitle: >-
           Fill up a simple form on our website to get an estimate or simply call
           us to request a service.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
