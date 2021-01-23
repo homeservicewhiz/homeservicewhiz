@@ -41,7 +41,7 @@ sections:
         actions: []
         actions_align: left
         image: /images/quick_1-new.svg
-        image_alt: Quick service icon
+        image_alt: ligh
         image_position: top
         image_align: center
         image_has_padding: true
