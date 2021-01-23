@@ -82,7 +82,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fourty
     form_layout: stacked
     enable_card: false
