@@ -147,7 +147,7 @@ sections:
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
-        title: Water Damage
+        title: Plumbing
         content_align: center
       - type: grid_item
         image: /images/successful-europa.png
