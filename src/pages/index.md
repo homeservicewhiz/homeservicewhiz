@@ -112,7 +112,7 @@ sections:
         image_align: center
         title: Home Remodeling
         title_align: center
-        image_position: left
+        image_position: top
         image_width: twenty-five
         image_has_padding: true
         image: /images/blue-sunflower.png
