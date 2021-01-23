@@ -66,7 +66,7 @@ sections:
         content: >
           Our NO BS payment plans allow you to spread out the cost over time
           without any additional charges.
-        content_align: center
+        content_align: left
         actions:
           - type: action
             label: Learn More
