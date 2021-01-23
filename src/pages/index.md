@@ -265,7 +265,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: 'Ideas, Inspiration and DIY guides'
     subtitle: ''
     actions:
       - type: action
