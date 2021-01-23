@@ -117,7 +117,7 @@ sections:
         image_has_padding: true
         image: /images/Home Remodelingblue.png
       - type: grid_item
-        image: /images/lock-smith1.png
+        image: /images/lock-smithblue.png
         image_alt: Gatsby logo
         image_align: center
         image_position: left
