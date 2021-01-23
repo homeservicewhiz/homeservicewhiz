@@ -13,21 +13,22 @@ sections:
   - title: ''
     subtitle: ''
     title_align: left
-    content: >
-      ### Billing
+    content: |
+      ## Our Office
+
+      Home Service Whiz
+
+      2021 Manhatten Avenue
+
+      Broadway, NY 12323
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
+      ### Call Us
 
-      ### Privacy
+      We are available on phone between 9 AM to 6 PM EST
 
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      #### +1-800-456-0000
     content_align: left
     form_position: right
     form_width: fifty
