@@ -159,6 +159,7 @@ sections:
         image_alt: Git logo
         image_align: center
         image_has_padding: true
+        title: 'Garage '
       - title: ''
         subtitle: ''
         title_align: left
