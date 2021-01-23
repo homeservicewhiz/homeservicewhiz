@@ -24,7 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: Our Process
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
