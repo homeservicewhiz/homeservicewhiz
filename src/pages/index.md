@@ -95,7 +95,7 @@ sections:
         image: /images/flexible_1-new.svg
         image_alt: Happy customer
         image_position: top
-        image_align: center
+        image_align: left
         image_has_padding: true
     grid_cols: three
     grid_gap_vert: small
