@@ -52,7 +52,7 @@ sections:
         align: left
         type: feature
       - title: Job
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
