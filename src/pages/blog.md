@@ -4,17 +4,7 @@ excerpt: Welcome to our blog
 sections:
   - title: HSW Blog
     subtitle: 'Ideas, Inspiration and DIY guides'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: ''
