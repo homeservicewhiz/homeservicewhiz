@@ -3,7 +3,7 @@ title: Services
 excerpt: ''
 sections:
   - type: hero_section
-    title: HOME REMODELING DONE RIGHT!
+    title: All Ser
     subtitle: ''
     content: >
       One Stop Solution for all your home imorovement needs. Call now to speak
