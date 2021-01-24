@@ -100,7 +100,7 @@ sections:
         image: /images/Plumbing.png
         image_alt: DatoCMS logo
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         title: Water Damage
         content_align: center
         title_align: left
