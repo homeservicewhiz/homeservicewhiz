@@ -162,7 +162,7 @@ sections:
     content: ''
     actions:
       - label: View All Services
-        url: lorem-ipsum
+        url: ''
         style: link
         has_icon: false
         icon: arrow-left
