@@ -42,6 +42,16 @@ sections:
         image_has_padding: true
         image: /images/bathtub.png
         subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there!'
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
