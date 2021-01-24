@@ -1,6 +1,6 @@
 ---
 title: Book A Call
-excerpt: lorem-ipsum
+excerpt: ''
 sections: []
 template: advanced
 ---
