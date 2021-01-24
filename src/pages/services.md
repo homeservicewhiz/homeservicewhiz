@@ -146,7 +146,7 @@ sections:
         subtitle: Keep em' out!
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /pest-control
             style: link
             has_icon: false
             icon: arrow-left
