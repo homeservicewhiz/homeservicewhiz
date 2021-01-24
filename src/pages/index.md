@@ -252,7 +252,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: What our customers say
-    subtitle: 'The true reward of the work we do is not $ only. The true '
+    subtitle: 'The true reward of the work we do is not $ only. The most dear '
     grid_items:
       - type: grid_item
         content: >
