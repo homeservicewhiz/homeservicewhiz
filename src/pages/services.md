@@ -105,6 +105,16 @@ sections:
         content_align: center
         title_align: left
         subtitle: Don't let dealing with water damage become a nightmare!
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         image: /images/water damage.png
         image_alt: Next.js logo
