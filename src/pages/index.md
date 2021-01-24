@@ -175,14 +175,6 @@ sections:
         type: grid_item
         image: /images/rofing.png
       - type: grid_item
-        image: /images/Plumbing.png
-        image_alt: DatoCMS logo
-        image_align: center
-        image_has_padding: true
-        title: Water Damage
-        content_align: center
-        title_align: center
-      - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
         image_align: center
