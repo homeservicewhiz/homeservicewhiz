@@ -67,7 +67,7 @@ sections:
       - input_type: email
         name: ''
         label: ''
-        default_value: ''
+        default_value: Please enter your email address
         options: []
         is_required: false
         type: form_field
