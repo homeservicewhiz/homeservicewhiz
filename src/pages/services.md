@@ -144,6 +144,16 @@ sections:
         title: Pest Control
         title_align: left
         subtitle: Keep em' out!
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         image: /images/magical-robin.png
         image_alt: Git logo
