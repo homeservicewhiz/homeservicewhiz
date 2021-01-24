@@ -78,7 +78,7 @@ sections:
         actions_align: center
       - type: grid_item
         image: /images/great-hickory.png
-        image_alt: Sanity logo
+        image_alt: mold remediation
         image_align: center
         image_has_padding: true
         image_position: top
