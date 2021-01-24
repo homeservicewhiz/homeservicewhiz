@@ -28,7 +28,7 @@ sections:
     background_image_opacity: -3
   - type: grid_section
     title: Screened and vetted licensed local pros
-    subtitle: ''
+    subtitle: We have done all the leg work so you don't have to
     grid_items:
       - type: grid_item
         title: Lightning Fast
