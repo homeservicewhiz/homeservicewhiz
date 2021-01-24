@@ -147,19 +147,19 @@ sections:
         content_align: center
         title_align: center
       - type: grid_item
-        image: /images/Plumbing.png
-        image_alt: DatoCMS logo
-        image_align: center
-        image_has_padding: true
-        title: Water Damage
-        content_align: center
-        title_align: center
-      - type: grid_item
         image: /images/water damage.png
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
         title: Plumbing
+        content_align: center
+        title_align: center
+      - type: grid_item
+        image: /images/Plumbing.png
+        image_alt: DatoCMS logo
+        image_align: center
+        image_has_padding: true
+        title: Water Damage
         content_align: center
         title_align: center
       - type: grid_item
