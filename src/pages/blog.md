@@ -64,7 +64,7 @@ sections:
     form_id: ''
     form_action: ''
     form_fields: []
-    submit_label: ''
+    submit_label: Subscribe
     align_vert: top
     padding_top: medium
     padding_bottom: medium
