@@ -39,7 +39,7 @@ sections:
         title_align: left
         image_position: top
         image_width: twenty-five
-        image_has_padding: true
+        image_has_padding: false
         image: /images/bathtub.png
         subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there!'
         actions:
