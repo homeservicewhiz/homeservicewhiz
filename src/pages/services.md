@@ -85,6 +85,16 @@ sections:
         title: Mold Remediation
         title_align: left
         subtitle: Let our professionals bring molds to their natural level.
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         image: /images/Plumbing.png
         image_alt: DatoCMS logo
