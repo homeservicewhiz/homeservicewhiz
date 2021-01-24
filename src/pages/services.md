@@ -75,6 +75,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - type: grid_item
         image: /images/great-hickory.png
         image_alt: Sanity logo
