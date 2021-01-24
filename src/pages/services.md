@@ -103,7 +103,7 @@ sections:
         image_has_padding: true
         title: Water Damage
         content_align: center
-        title_align: center
+        title_align: left
         subtitle: Don't let dealing with water damage become a nightmare!
       - type: grid_item
         image: /images/water damage.png
