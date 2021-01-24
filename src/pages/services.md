@@ -29,7 +29,7 @@ sections:
     has_border: false
     background_image_opacity: -3
   - type: grid_section
-    title: All Services
+    title: ''
     subtitle: >-
       Weather you are looking to begin your complicated home remodeling project
       or you need to simply change a faucet. Our per-screened and vetted local
