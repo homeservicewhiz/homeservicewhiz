@@ -1,6 +1,6 @@
 ---
 title: HSW Blog
-excerpt: lorem-ipsum
+excerpt: Welcome to our blog
 sections: []
 template: advanced
 ---
