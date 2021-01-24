@@ -122,20 +122,20 @@ sections:
         image_has_padding: true
         image: /images/bathtub.png
       - type: grid_item
-        image: /images/great-hickory.png
-        image_alt: Sanity logo
-        image_align: center
-        image_has_padding: true
-        image_position: top
-        title: Mold Remediation
-        title_align: center
-      - type: grid_item
         image: /images/water damage.png
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
         title: Plumbing
         content_align: center
+        title_align: center
+      - type: grid_item
+        image: /images/great-hickory.png
+        image_alt: Sanity logo
+        image_align: center
+        image_has_padding: true
+        image_position: top
+        title: Mold Remediation
         title_align: center
       - type: grid_item
         image: /images/successful-europa.png
