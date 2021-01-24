@@ -159,7 +159,7 @@ sections:
         image: /images/magical-robin.png
         image_alt: Git logo
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         title: Garage Door Replacement
         title_align: center
       - title: Appliance Repair
