@@ -17,7 +17,6 @@ sections:
         label: Schedule Call
         url: /features
         style: secondary
-    image: /images/Asset 2.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
