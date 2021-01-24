@@ -124,7 +124,7 @@ sections:
         title: Plumbing
         content_align: center
         title_align: center
-        subtitle: Let our professionals help you with that leakage
+        subtitle: Let our professionals help you with that leakage.
       - type: grid_item
         image: /images/successful-europa.png
         image_alt: Gridsome logo
