@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     title_align: left
     content: >-
       ## Lorem ipsum
