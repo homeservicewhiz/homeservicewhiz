@@ -106,7 +106,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Our Services
+    title: Featured Services
     subtitle: >-
       Check out some of our services below or view all of them on our service
       page.
