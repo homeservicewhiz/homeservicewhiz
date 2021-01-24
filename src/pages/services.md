@@ -45,7 +45,7 @@ sections:
         actions:
           - label: Book Now
             url: /bathtub-replacement
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
