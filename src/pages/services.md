@@ -41,9 +41,7 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         image: /images/bathtub.png
-        subtitle: >-
-          Give a new life to your ageing bathroom. After all, it is the most
-          tranquil part of your home.
+        subtitle: Get rid of your old and stained bathtub
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
