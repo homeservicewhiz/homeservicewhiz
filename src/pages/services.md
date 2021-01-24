@@ -66,7 +66,7 @@ sections:
         title_align: center
         subtitle: Locked out of you home ? and need an expert to open the locked door ?
         actions:
-          - label: ''
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
