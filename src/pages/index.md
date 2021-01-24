@@ -137,13 +137,6 @@ sections:
         image_position: top
         title: Mold Remediation
         title_align: center
-      - type: grid_item
-        image: /images/successful-europa.png
-        image_alt: Gridsome logo
-        image_align: center
-        image_has_padding: true
-        title: Pest Control
-        title_align: center
       - title: Appliance Repair
         subtitle: ''
         title_align: center
