@@ -87,7 +87,7 @@ sections:
         subtitle: Let our professionals bring molds to their natural level.
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /mold-remediation
             style: link
             has_icon: false
             icon: arrow-left
