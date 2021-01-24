@@ -41,7 +41,7 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         image: /images/bathtub.png
-        subtitle: Give a new life to your ageing bathroom.
+        subtitle: 'Give a new life to your ageing bathroom. After all, it is the most '
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
