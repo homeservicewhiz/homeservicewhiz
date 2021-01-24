@@ -3,7 +3,7 @@ title: Book A Call
 excerpt: ''
 sections:
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
