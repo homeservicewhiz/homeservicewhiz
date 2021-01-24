@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     title: Our Services
     subtitle: ''
-    content: >
-      One Stop Solution for all your home imorovement needs. Call now to speak
-      with a home improvement specialist.
+    content: |
+      Because, *All Men Must Serve!*
     actions:
       - type: action
         label: Call Now
