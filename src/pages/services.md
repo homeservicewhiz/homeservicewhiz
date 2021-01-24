@@ -33,7 +33,7 @@ sections:
     subtitle: ''
     grid_items:
       - type: grid_item
-        image_alt: home remodeling
+        image_alt: bathtub replacement icon
         image_align: center
         title: Bathtub Replacement
         title_align: left
