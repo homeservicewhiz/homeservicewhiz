@@ -36,7 +36,7 @@ sections:
         image_alt: home remodeling
         image_align: center
         title: Bathtub Replacement
-        title_align: center
+        title_align: left
         image_position: top
         image_width: twenty-five
         image_has_padding: true
