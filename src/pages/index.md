@@ -137,6 +137,14 @@ sections:
         title: Pest Control
         title_align: center
       - type: grid_item
+        image: /images/water damage.png
+        image_alt: Next.js logo
+        image_align: center
+        image_has_padding: true
+        title: Plumbing
+        content_align: center
+        title_align: center
+      - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
         image_align: center
@@ -144,14 +152,6 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         title: Locksmith Service
-        content_align: center
-        title_align: center
-      - type: grid_item
-        image: /images/water damage.png
-        image_alt: Next.js logo
-        image_align: center
-        image_has_padding: true
-        title: Plumbing
         content_align: center
         title_align: center
       - type: grid_item
