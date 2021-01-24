@@ -126,7 +126,7 @@ sections:
         title_align: left
         subtitle: Let our professionals help you with that leakage.
         actions:
-          - label: lorem-ipsum
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
