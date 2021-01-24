@@ -162,13 +162,6 @@ sections:
         title: Water Damage
         content_align: center
         title_align: center
-      - type: grid_item
-        image: /images/magical-robin.png
-        image_alt: Git logo
-        image_align: center
-        image_has_padding: true
-        title: Garage Door Replacement
-        title_align: center
       - title: Appliance Repair
         subtitle: ''
         title_align: center
@@ -184,6 +177,13 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/Appliance Repair.png
+      - type: grid_item
+        image: /images/magical-robin.png
+        image_alt: Git logo
+        image_align: center
+        image_has_padding: true
+        title: Garage Door Replacement
+        title_align: center
       - title: Bathroom Remodeling
         subtitle: ''
         title_align: center
