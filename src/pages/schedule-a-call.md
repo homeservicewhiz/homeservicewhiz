@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: ''
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: ''
     video_embed_html: |-
       <!-- Start of Meetings Embed Script -->
           <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/homeservicewhiz?embed=true"></div>
