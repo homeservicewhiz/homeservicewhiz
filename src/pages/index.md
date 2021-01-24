@@ -56,7 +56,7 @@ sections:
         image_has_padding: true
         image_width: twenty-five
       - type: grid_item
-        title: Safe
+        title: Safety and Security
         title_align: left
         content: >+
           Our transparent annual warranties cover most repairs, renovations, and
