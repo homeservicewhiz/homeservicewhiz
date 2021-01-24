@@ -64,7 +64,7 @@ sections:
         title: Locksmith Service
         content_align: left
         title_align: left
-        subtitle: Locked out of you home ? and need an expert to open the locked door ?
+        subtitle: Locked out of you home ? and need an expert ?
         actions:
           - label: Book Now
             url: /locksmith
