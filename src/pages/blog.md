@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Featured Articles
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     blog_feed_cols: three
     enable_cards: false
