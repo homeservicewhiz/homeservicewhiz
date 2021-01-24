@@ -104,7 +104,7 @@ sections:
         title: Water Damage
         content_align: center
         title_align: center
-        subtitle: Don't let dealing with water damage become a nightmare
+        subtitle: Don't let dealing with water damage become a nightmare!
       - type: grid_item
         image: /images/water damage.png
         image_alt: Next.js logo
