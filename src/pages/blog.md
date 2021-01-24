@@ -44,7 +44,7 @@ sections:
     type: blog_feed_section
   - title: ''
     subtitle: ''
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
