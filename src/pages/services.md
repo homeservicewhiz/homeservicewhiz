@@ -118,7 +118,7 @@ sections:
         actions_align: center
       - type: grid_item
         image: /images/water damage.png
-        image_alt: Next.js logo
+        image_alt: plumbing wrench
         image_align: center
         image_has_padding: true
         title: Plumbing
