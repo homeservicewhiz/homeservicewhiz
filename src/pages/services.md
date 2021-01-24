@@ -64,7 +64,7 @@ sections:
         title: Locksmith Service
         content_align: center
         title_align: center
-        subtitle: Locked out of you home ? and need a
+        subtitle: 'Locked out of you home ? and need an expert to '
       - type: grid_item
         image: /images/great-hickory.png
         image_alt: Sanity logo
