@@ -27,7 +27,7 @@ sections:
     has_border: false
     background_image_opacity: -3
   - type: grid_section
-    title: Screened and vetted local pros
+    title: Screened and vetted licensed local pros
     subtitle: ''
     grid_items:
       - type: grid_item
