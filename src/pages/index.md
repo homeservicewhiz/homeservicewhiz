@@ -191,21 +191,6 @@ sections:
         image_has_padding: true
         title: Garage Door Replacement
         title_align: center
-      - title: Bathroom Remodeling
-        subtitle: ''
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/Bathroom Remodel.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
