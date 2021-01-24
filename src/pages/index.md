@@ -162,7 +162,7 @@ sections:
     content: ''
     actions:
       - label: View All Services
-        url: ''
+        url: /services
         style: link
         has_icon: false
         icon: arrow-left
