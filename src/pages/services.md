@@ -120,7 +120,7 @@ sections:
         image: /images/water damage.png
         image_alt: plumbing wrench
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         title: Plumbing
         content_align: center
         title_align: left
