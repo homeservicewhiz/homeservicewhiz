@@ -44,7 +44,7 @@ sections:
         subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there!'
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /
             style: link
             has_icon: false
             icon: arrow-left
