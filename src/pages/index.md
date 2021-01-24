@@ -221,21 +221,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/Home Warranties.png
-      - title: Moving
-        subtitle: ''
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/Moving.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
