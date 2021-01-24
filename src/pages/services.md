@@ -30,10 +30,7 @@ sections:
     background_image_opacity: -3
   - type: grid_section
     title: ''
-    subtitle: >-
-      Weather you are looking to begin your complicated home remodeling project
-      or you need to simply change a faucet. Our per-screened and vetted local
-      pros are just a call away!
+    subtitle: ''
     grid_items:
       - type: grid_item
         image_alt: home remodeling
