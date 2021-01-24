@@ -30,7 +30,7 @@ sections:
     title: Screened and vetted licensed local pros
     subtitle: >-
       We have done all the leg work so you don't have to. When you work with our
-      pre-screened, vetted and licensed local pros
+      pre-screened, vetted and licensed local 
     grid_items:
       - type: grid_item
         title: Lightning Fast
