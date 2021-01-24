@@ -145,7 +145,7 @@ sections:
         title_align: left
         subtitle: Keep em' out!
         actions:
-          - label: lorem-ipsum
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
