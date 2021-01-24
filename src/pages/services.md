@@ -62,7 +62,7 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         title: Locksmith Service
-        content_align: left
+        content_align: right
         title_align: center
         subtitle: Locked out of you home ? and need an expert to open the locked door ?
         actions:
