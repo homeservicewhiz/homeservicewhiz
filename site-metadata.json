@@ -3,7 +3,7 @@
     "description": "",
     "layout": "boxed",
     "style": "minimal",
-    "palette": "blue",
+    "palette": "red",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
