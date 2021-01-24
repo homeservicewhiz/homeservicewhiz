@@ -224,7 +224,7 @@ sections:
         image: /images/Home Warranties.png
       - title: Moving
         subtitle: Let our experts carry your delicate items while you change homes
-        title_align: center
+        title_align: left
         content: ''
         content_align: left
         actions: []
