@@ -49,7 +49,7 @@ sections:
       Get our selection of inspiring content from around the web, twice a month.
       Sign-up for our newsletter.
     content_align: center
-    form_position: top
+    form_position: bottom
     form_width: fifty
     form_layout: inline
     enable_card: false
