@@ -122,6 +122,14 @@ sections:
         image_has_padding: true
         image: /images/bathtub.png
       - type: grid_item
+        image: /images/great-hickory.png
+        image_alt: Sanity logo
+        image_align: center
+        image_has_padding: true
+        image_position: top
+        title: Mold Remediation
+        title_align: center
+      - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
         image_align: center
@@ -130,14 +138,6 @@ sections:
         image_has_padding: true
         title: Locksmith Service
         content_align: center
-        title_align: center
-      - type: grid_item
-        image: /images/great-hickory.png
-        image_alt: Sanity logo
-        image_align: center
-        image_has_padding: true
-        image_position: top
-        title: Mold Remediation
         title_align: center
       - type: grid_item
         image: /images/Plumbing.png
