@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: HOME REMODELING DONE RIGHT!
+    title: ''
     subtitle: ''
     content: >
       One Stop Solution for all your home imorovement needs. Call now to speak
