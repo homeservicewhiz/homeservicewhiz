@@ -65,6 +65,16 @@ sections:
         content_align: left
         title_align: center
         subtitle: Locked out of you home ? and need an expert to open the locked door ?
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - type: grid_item
         image: /images/great-hickory.png
         image_alt: Sanity logo
