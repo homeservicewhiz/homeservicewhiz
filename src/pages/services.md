@@ -142,7 +142,7 @@ sections:
         image_align: center
         image_has_padding: true
         title: Pest Control
-        title_align: center
+        title_align: left
         subtitle: Keep em' out!
       - type: grid_item
         image: /images/magical-robin.png
