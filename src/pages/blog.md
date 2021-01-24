@@ -6,7 +6,7 @@ sections:
     subtitle: 'Ideas, Inspiration and DIY guides'
     content: ''
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: ''
     video_embed_html: ''
     media_position: top
     media_width: fifty
