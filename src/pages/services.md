@@ -3,7 +3,7 @@ title: Services
 excerpt: ''
 sections:
   - type: hero_section
-    title: All Ser
+    title: All Services
     subtitle: ''
     content: >
       One Stop Solution for all your home imorovement needs. Call now to speak
