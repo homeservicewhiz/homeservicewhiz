@@ -161,7 +161,7 @@ sections:
   - title: ''
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: View All Services
         url: lorem-ipsum
         style: link
         has_icon: false
