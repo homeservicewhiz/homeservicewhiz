@@ -52,6 +52,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
