@@ -106,7 +106,7 @@ sections:
         title_align: left
         subtitle: Don't let dealing with water damage become a nightmare!
         actions:
-          - label: 'Book '
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
