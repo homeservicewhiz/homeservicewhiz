@@ -45,17 +45,9 @@ sections:
   - title: ''
     subtitle: ''
     title_align: center
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Get our selection of inspiring content from around the web, twice a month.
+      Sign-up for our newsletter.
     content_align: center
     form_position: top
     form_width: fifty
