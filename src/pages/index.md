@@ -130,19 +130,19 @@ sections:
         title: Mold Remediation
         title_align: center
       - type: grid_item
-        image: /images/successful-europa.png
-        image_alt: Gridsome logo
-        image_align: center
-        image_has_padding: true
-        title: Pest Control
-        title_align: center
-      - type: grid_item
         image: /images/water damage.png
         image_alt: Next.js logo
         image_align: center
         image_has_padding: true
         title: Plumbing
         content_align: center
+        title_align: center
+      - type: grid_item
+        image: /images/successful-europa.png
+        image_alt: Gridsome logo
+        image_align: center
+        image_has_padding: true
+        title: Pest Control
         title_align: center
       - type: grid_item
         image: /images/lock-smith.png
