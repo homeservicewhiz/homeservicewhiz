@@ -67,7 +67,7 @@ sections:
         subtitle: Locked out of you home ? and need an expert to open the locked door ?
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /locksmith
             style: link
             has_icon: false
             icon: arrow-left
