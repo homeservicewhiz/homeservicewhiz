@@ -190,6 +190,17 @@
         "tertiary_nav_title": "",
         "tertiary_nav_links": [
             {
+                "label": "Blog",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Terms",
                 "url": "/terms-conditions",
@@ -200,17 +211,6 @@
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             },
             {
                 "label": "Resources",
