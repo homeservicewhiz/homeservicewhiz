@@ -158,7 +158,7 @@ sections:
     align: center
     enable_cards: true
     background_color: secondary
-  - title: lorem-ipsum
+  - title: ''
     content: ''
     actions: []
     actions_position: bottom
