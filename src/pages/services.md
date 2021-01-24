@@ -80,7 +80,7 @@ sections:
         image: /images/great-hickory.png
         image_alt: mold remediation
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image_position: top
         title: Mold Remediation
         title_align: left
