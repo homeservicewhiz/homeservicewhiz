@@ -26,7 +26,7 @@ sections:
     has_border: false
     background_image_opacity: -3
   - type: grid_section
-    title: Featured Services
+    title: All Services
     subtitle: >-
       Check out some of our services below or view all of them on our service
       page.
