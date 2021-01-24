@@ -41,7 +41,7 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         image: /images/bathtub.png
-        subtitle: Get rid of your old and stained bathtub
+        subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there!'
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
