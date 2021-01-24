@@ -143,6 +143,7 @@ sections:
         image_has_padding: true
         title: Pest Control
         title_align: center
+        subtitle: Keep em' out
       - type: grid_item
         image: /images/magical-robin.png
         image_alt: Git logo
