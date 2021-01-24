@@ -60,7 +60,7 @@ sections:
         image_align: center
         image_position: top
         image_width: twenty-five
-        image_has_padding: true
+        image_has_padding: false
         title: Locksmith Service
         content_align: left
         title_align: left
