@@ -1,5 +1,5 @@
 ---
 title: book-a-call
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
