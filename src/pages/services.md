@@ -140,7 +140,7 @@ sections:
         image: /images/successful-europa.png
         image_alt: Gridsome logo
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         title: Pest Control
         title_align: left
         subtitle: Keep em' out!
