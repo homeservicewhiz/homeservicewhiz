@@ -83,7 +83,7 @@ sections:
         image_has_padding: true
         image_position: top
         title: Mold Remediation
-        title_align: center
+        title_align: left
         subtitle: Let our professionals bring molds to their natural level.
       - type: grid_item
         image: /images/Plumbing.png
