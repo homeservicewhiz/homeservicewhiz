@@ -223,7 +223,7 @@ sections:
         type: grid_item
         image: /images/Home Warranties.png
       - title: Moving
-        subtitle: 'Let our experts carry your precious '
+        subtitle: Let our experts carry your delicate items.
         title_align: center
         content: ''
         content_align: left
