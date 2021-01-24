@@ -28,8 +28,9 @@ sections:
   - type: grid_section
     title: All Services
     subtitle: >-
-      Check out some of our services below or view all of them on our service
-      page.
+      Weather you are looking to begin your complicated home remodeling project
+      or you need to simply change a faucet. Our per-screened and vetted local
+      pros are just a call away!
     grid_items:
       - type: grid_item
         image_alt: home remodeling
