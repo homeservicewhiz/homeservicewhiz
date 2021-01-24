@@ -3,7 +3,7 @@ title: HSW Blog
 excerpt: Welcome to our blog
 sections:
   - title: HSW Blog
-    subtitle: ''
+    subtitle: 'Ideas, Inspiration and DIY guides'
     content: >-
       ## Lorem ipsum
 
