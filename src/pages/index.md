@@ -107,7 +107,9 @@ sections:
     background_color: none
   - type: grid_section
     title: Our Services
-    subtitle: Valar dohaeris "All men must serve"
+    subtitle: >-
+      Check out some of our services below or view all of them on our service
+      page.
     grid_items:
       - type: grid_item
         image_alt: home remodeling
