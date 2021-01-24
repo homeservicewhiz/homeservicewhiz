@@ -41,7 +41,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         image: /images/bathtub.png
-        subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there!'
+        subtitle: 'Get rid of your old and stained bathtub, as if it wasn''t there! '
         actions:
           - label: Book Now
             url: /bathtub-replacement
