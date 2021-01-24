@@ -55,6 +55,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
+        subtitle: Zip-Zap-Zoom
       - type: grid_item
         title: Safety and Security
         title_align: left
