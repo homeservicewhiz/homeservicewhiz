@@ -163,7 +163,7 @@ sections:
     actions:
       - label: View All Services
         url: /services
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
