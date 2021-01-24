@@ -41,6 +41,12 @@ sections:
         image_width: twenty-five
         image_has_padding: true
         image: /images/bathtub.png
+        subtitle: >-
+          An aging and a stained bathtub can really bear down the looks of your
+          bathroom. A tub replacement will solve the matter, but you would
+          possibly not feel up to the task. Fortunately, HomeServiceWhi features
+          a skilled team of bathtub replacement professionals able to update
+          your bathroom.
       - type: grid_item
         image: /images/lock-smith.png
         image_alt: Gatsby logo
