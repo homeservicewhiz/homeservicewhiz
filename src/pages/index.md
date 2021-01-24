@@ -184,13 +184,6 @@ sections:
         title: Locksmith Service
         content_align: center
         title_align: center
-      - type: grid_item
-        image: /images/magical-robin.png
-        image_alt: Git logo
-        image_align: center
-        image_has_padding: true
-        title: Garage Door Replacement
-        title_align: center
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
