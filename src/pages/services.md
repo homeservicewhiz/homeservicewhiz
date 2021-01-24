@@ -63,7 +63,7 @@ sections:
         image_has_padding: true
         title: Locksmith Service
         content_align: left
-        title_align: right
+        title_align: left
         subtitle: Locked out of you home ? and need an expert to open the locked door ?
         actions:
           - label: Book Now
