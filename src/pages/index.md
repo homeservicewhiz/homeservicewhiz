@@ -144,6 +144,21 @@ sections:
         image_has_padding: true
         title: Pest Control
         title_align: center
+      - title: Appliance Repair
+        subtitle: ''
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: /images/Appliance Repair.png
       - type: grid_item
         image: /images/Plumbing.png
         image_alt: DatoCMS logo
@@ -162,21 +177,6 @@ sections:
         title: Locksmith Service
         content_align: center
         title_align: center
-      - title: Appliance Repair
-        subtitle: ''
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: /images/Appliance Repair.png
       - type: grid_item
         image: /images/magical-robin.png
         image_alt: Git logo
