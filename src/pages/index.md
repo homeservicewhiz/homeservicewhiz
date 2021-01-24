@@ -174,16 +174,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/rofing.png
-      - type: grid_item
-        image: /images/lock-smith.png
-        image_alt: Gatsby logo
-        image_align: center
-        image_position: top
-        image_width: twenty-five
-        image_has_padding: true
-        title: Locksmith Service
-        content_align: center
-        title_align: center
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
