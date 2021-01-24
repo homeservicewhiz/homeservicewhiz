@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         label: Call Now
-        url: /
+        url: ''
         style: primary
       - type: action
         label: Schedule Call
