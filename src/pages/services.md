@@ -143,7 +143,7 @@ sections:
         image_has_padding: false
         title: Pest Control
         title_align: left
-        subtitle: Keep em' out!
+        subtitle: 'Keep em'' out! and away fron '
         actions:
           - label: Book Now
             url: /pest-control
