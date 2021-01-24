@@ -86,7 +86,7 @@ sections:
         title_align: left
         subtitle: Let our professionals bring molds to their natural level.
         actions:
-          - label: lorem-ipsum
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
