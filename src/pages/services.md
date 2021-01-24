@@ -5,8 +5,11 @@ sections:
   - type: hero_section
     title: Our Services
     subtitle: ''
-    content: |
-      Because, *All Men Must Serve!*
+    content: |+
+      Weather you are looking to begin your complicated home remodeling 
+      project or you need to simply change a faucet. Our per-screened and 
+      vetted local pros are just a call away!
+
     actions:
       - type: action
         label: Call Now
