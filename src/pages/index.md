@@ -158,6 +158,31 @@ sections:
     align: center
     enable_cards: true
     background_color: secondary
+  - type: cta_section
+    title: Schedule Consultation or Call for a quick estimate
+    content: >
+      They call it home remodeling we call it evolution. Call our team of home
+      improvement specialists right away or schedule a consultation at your
+      preffered time.
+    actions:
+      - type: action
+        label: Call Now
+        url: /pricing
+        style: primary
+      - label: Book Consultation
+        url: lorem-ipsum
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: grid_section
     title: What our customers say
     subtitle: The true reward of the work we do is not $. It is ...
@@ -213,31 +238,6 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: secondary
-  - type: cta_section
-    title: Schedule Consultation or Call for a quick estimate
-    content: >
-      They call it home remodeling we call it evolution. Call our team of home
-      improvement specialists right away or schedule a consultation at your
-      preffered time.
-    actions:
-      - type: action
-        label: Call Now
-        url: /pricing
-        style: primary
-      - label: Book Consultation
-        url: lorem-ipsum
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: 'Ideas, Inspiration and DIY guides'
     subtitle: ''
