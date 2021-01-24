@@ -27,7 +27,7 @@ sections:
     has_border: false
     background_image_opacity: -3
   - type: grid_section
-    title: Screened and vetted licensed local pros
+    title: Happiness is Guaranteed
     subtitle: >-
       We have done all the leg work so you don't have to. When you work with our
       pre-screened, vetted and licensed local professionals, your...
