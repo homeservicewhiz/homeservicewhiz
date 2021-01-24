@@ -219,7 +219,7 @@
             },
             {
                 "type": "action",
-                "label": "Privacy Policy",
+                "label": "Privacy",
                 "url": "/privacy-policy",
                 "style": "link"
             }
