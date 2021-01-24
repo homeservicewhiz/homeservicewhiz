@@ -46,8 +46,8 @@ sections:
     subtitle: ''
     title_align: center
     content: >
-      Get our selection of inspiring content from around the web, twice a month.
-      Sign-up for our newsletter.
+      **Get our selection of inspiring content from around the web, twice a
+      month. Sign-up for our newsletter today**
     content_align: center
     form_position: bottom
     form_width: fifty
