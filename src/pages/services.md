@@ -107,7 +107,7 @@ sections:
         subtitle: Don't let dealing with water damage become a nightmare!
         actions:
           - label: Book Now
-            url: /water-damage
+            url: services/water-damage
             style: link
             has_icon: false
             icon: arrow-left
