@@ -14,7 +14,7 @@ sections:
         style: primary
       - type: action
         label: Schedule Call
-        url: /features
+        url: /schedule-a-call
         style: secondary
     image: /images/Asset 2.png
     image_alt: Hero section placeholder image
