@@ -12,7 +12,7 @@ sections:
     background_color: primary
     background_image_position: center top
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     features: []
     feature_padding_vert: medium
     align: center
