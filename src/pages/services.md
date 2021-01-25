@@ -165,7 +165,7 @@ sections:
         subtitle: Weather you want to install a new door or replace the existing one
         actions:
           - label: Book Now
-            url: /garage-door-replacement
+            url: services/garage-door-replacement
             style: link
             has_icon: false
             icon: arrow-left
