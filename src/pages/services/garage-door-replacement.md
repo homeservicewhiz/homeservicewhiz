@@ -173,7 +173,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Ready to give a new look to your bathroom ?
+  - title: ''
     content: ''
     actions:
       - label: Call Now
