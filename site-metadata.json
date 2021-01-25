@@ -130,12 +130,6 @@
             },
             {
                 "type": "action",
-                "label": "Kitchen Remodel",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Roofing",
                 "url": "/services/roofing",
                 "style": "link"
