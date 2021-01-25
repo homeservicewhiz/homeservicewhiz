@@ -163,6 +163,16 @@ sections:
         title: Garage Door Replacement
         title_align: left
         subtitle: Weather you want to install a new door or replace the existing one
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Appliance Repair
         subtitle: Our pros can repair almost any home appliance.
         title_align: left
