@@ -57,7 +57,7 @@ sections:
     form_action: ''
     form_fields:
       - input_type: email
-        name: ''
+        name: Email
         label: ''
         default_value: Enter your email address here
         options: []
