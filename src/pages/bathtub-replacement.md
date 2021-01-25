@@ -23,16 +23,6 @@ sections:
           beautiful tub that needs less scrubbing within the years to return. At
           HomeServiceWhiz , we gladly provide a lifetime warranty on every
           bathtub replacement service we offer.
-
-
-          You'll upgrade to a replacement look or choose one that matches your
-          existing color scheme. Finishes are available in traditional options
-          like marble, tile, or granite, also as stylish modern colors.
-
-
-          The bathtub selection at HomeServiceWhiz also includes deep bathtub
-          models. With a deep tub, you'll sink completely into a soothing hot
-          bath. 
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
