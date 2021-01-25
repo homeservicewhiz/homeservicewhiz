@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         label: Call Now
-        url: '<a href=”tel:+1-877-538-5888″>'
+        url: '<a href=”tel:+1-800-456-0000″>'
         style: primary
       - type: action
         label: Schedule Call
