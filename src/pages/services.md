@@ -181,7 +181,7 @@ sections:
         content_align: left
         actions:
           - label: Book Now
-            url: /appliance-repair
+            url: services/appliance-repair
             style: link
             has_icon: false
             icon: arrow-left
