@@ -50,7 +50,9 @@ sections:
         type: grid_item
         image: /images/royal-ant.svg
       - title: Flexible Payments
-        subtitle: ''
+        subtitle: >-
+          Payment plans allow you to pay over time without any additional
+          charges. Book now and pay later.
         title_align: left
         content: >-
           ## Lorem ipsum
