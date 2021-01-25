@@ -168,7 +168,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Ready to give a new look to your bathroom ?
+  - title: Call us today to speak with a home warrenties specialist.
     content: ''
     actions:
       - label: Call Now
