@@ -45,7 +45,7 @@ sections:
   - title: Get an estimate today
     subtitle: >-
       Fill up the form below to send us an email and our experts will get back
-      to you with lightning speed
+      to you with lightning speed.
     title_align: center
     content: ''
     content_align: left
