@@ -67,7 +67,7 @@ sections:
         subtitle: Locked out of you home ? and need an expert ?
         actions:
           - label: Book Now
-            url: services/locksmith
+            url: services/locksmiths
             style: link
             has_icon: false
             icon: arrow-left
