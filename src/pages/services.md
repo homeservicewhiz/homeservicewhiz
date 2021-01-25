@@ -209,7 +209,7 @@ sections:
         image: /images/rofing.png
       - title: Home Warrenties
         subtitle: With our home warrenties your HVAC systems are fully covered.
-        title_align: center
+        title_align: left
         content: ''
         content_align: left
         actions:
