@@ -184,7 +184,7 @@ sections:
         content_align: center
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /bathroom-remodeling
             style: link
             has_icon: false
             icon: arrow-left
