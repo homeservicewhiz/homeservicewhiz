@@ -142,7 +142,7 @@
             },
             {
                 "label": "Garage Door",
-                "url": "/services/garage",
+                "url": "/services/garage-door-replacement",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
