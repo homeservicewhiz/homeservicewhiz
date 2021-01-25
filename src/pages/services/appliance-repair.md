@@ -33,7 +33,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/quick_1-new.svg
+        image: /images/charming-basil.svg
       - title: Safety and Security
         subtitle: >-
           Our transparent annual warranties cover most repairs, renovations, and
