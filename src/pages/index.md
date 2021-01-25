@@ -192,7 +192,7 @@ sections:
     actions:
       - type: action
         label: Call Now
-        url: ''
+        url: '<a href=”tel:+1-877-538-5888″>'
         style: primary
       - label: Book Consultation
         url: lorem-ipsum
