@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Let oure
+      - title: Let our experts help you relocate
         subtitle: ''
         content: "Relocation in ….. isn't a simple task to accomplish because it takes tons of effort to shift a house and therefore, the home items from one place to another. House moving in metros is the dreary undertaking to satisfy together must precisely move the relative's things without conveying harm to them. Choosing the best packers and movers and house shifting is one activity that demands additional care because it embroils the moving of huge appliances, furniture, gadgets and other costly home items.\_\n\n"
         actions: []
