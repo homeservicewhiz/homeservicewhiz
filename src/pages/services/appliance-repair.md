@@ -3,7 +3,7 @@ title: Appliance Repair
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Appliance Repair
     subtitle: ''
     align: center
     padding_top: small
