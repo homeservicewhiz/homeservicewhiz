@@ -193,7 +193,7 @@ sections:
         type: grid_item
         image: /images/Bathroom Remodel.png
       - title: Roofing
-        subtitle: Have a roofing emergency ?
+        subtitle: 'Have a roofing emergency ? '
         title_align: left
         content: ''
         content_align: left
