@@ -11,7 +11,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: lorem-ipsum
+  - title: ''
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
