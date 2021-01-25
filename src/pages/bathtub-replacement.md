@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Bathtub Replacement
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
