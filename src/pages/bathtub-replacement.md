@@ -42,7 +42,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: ''
+  - title: 'Get an estimate by '
     subtitle: ''
     title_align: center
     content: ''
