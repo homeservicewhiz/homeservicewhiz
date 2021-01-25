@@ -269,7 +269,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "logo": "/images/enthusiastic-bee.svg"
     },
     "favicon": "/images/Favicon.png"
 }
