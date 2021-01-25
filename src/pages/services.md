@@ -146,7 +146,7 @@ sections:
         subtitle: Keep em' out! and away from your pristine abode.
         actions:
           - label: Book Now
-            url: /pest-control
+            url: services/pest-control
             style: link
             has_icon: false
             icon: arrow-left
