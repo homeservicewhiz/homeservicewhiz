@@ -20,10 +20,7 @@ sections:
           Our quick turnaround time helps you save yours to live your life doing
           stuff you care about.
         title_align: left
-        content: >+
-          Our quick turnaround time helps you save yours to live your life doing
-          stuff you care about.
-
+        content: ''
         content_align: left
         actions: []
         actions_align: left
