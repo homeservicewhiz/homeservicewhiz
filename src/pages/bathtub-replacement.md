@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: ''
+      - title: Light
         subtitle: ''
         title_align: left
         content: >-
