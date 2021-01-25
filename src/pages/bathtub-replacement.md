@@ -33,7 +33,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/quick_1-new.svg
-      - title: lorem-ipsum
+      - title: Safety and Security
         subtitle: lorem-ipsum
         title_align: left
         content: >-
