@@ -192,7 +192,7 @@ sections:
     actions:
       - type: action
         label: Call Now
-        url: /pricing
+        url: ''
         style: primary
       - label: Book Consultation
         url: lorem-ipsum
