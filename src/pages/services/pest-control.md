@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: ''
+      - title: Pest Control
         subtitle: ''
         content: >
           The replacement bathtubs that we install are made from 100% durable
