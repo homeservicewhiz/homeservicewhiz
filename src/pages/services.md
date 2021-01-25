@@ -208,7 +208,7 @@ sections:
         type: grid_item
         image: /images/rofing.png
       - title: Home Warrenties
-        subtitle: With our home warrenties your H
+        subtitle: 'With our home warrenties your HVAC '
         title_align: center
         content: ''
         content_align: left
