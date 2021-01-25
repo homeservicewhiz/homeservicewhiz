@@ -88,12 +88,19 @@ sections:
       - title: Excellent selection of acrylic bathtubs
         subtitle: ''
         content: >
-          The replacement bathtubs that we install are made from 100% durable
-          acrylic. As a bonus, acrylic tubs are easier to stay clean because
-          they resist mold and mildew. All of this suggests that you'll enjoy a
-          beautiful tub that needs less scrubbing within the years to return. At
-          HomeServiceWhiz , we gladly provide a lifetime warranty on every
-          bathtub replacement service we offer.
+          Garage doors are probably the most critical moving parts of your
+          house, and with much weight, you'll
+
+          hurt yourself pretty badly. Many of us have gotten our fingers caught
+          inside hinges while trying to try to
+
+          do these repairs. While bruises and cuts might sound like small
+          things, having a vast door fall on you
+
+          suddenly isn't. Our Professional garage door repairers can assist you
+          in avoiding such
+
+          injuries and that they accompany many other benefits.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
