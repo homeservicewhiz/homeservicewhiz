@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Ready to give a new look to your bathtub
+  - title: 'Ready to give a new look to your '
     content: ''
     actions:
       - label: Call Now
