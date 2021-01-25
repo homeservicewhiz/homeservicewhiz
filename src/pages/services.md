@@ -178,7 +178,7 @@ sections:
         type: grid_item
         image: /images/Appliance Repair.png
       - title: Bathroom Remodeling
-        subtitle: ''
+        subtitle: Looking to give a new look to your bathroom ?
         title_align: left
         content: ''
         content_align: center
