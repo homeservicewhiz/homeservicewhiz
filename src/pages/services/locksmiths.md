@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: 'Professional Locksmith Service for '
+      - title: 'Professional Locksmith Service '
         subtitle: ''
         content: >
           Among the varied service providers, the role of a locksmith has been
