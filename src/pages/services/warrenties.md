@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Excellent selection of acrylic bathtubs
+      - title: Protect your home
         subtitle: ''
         content: >+
           Along with plumbing and electrical, the heating, ventilation, and air
