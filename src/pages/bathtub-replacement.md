@@ -70,7 +70,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: lorem-ipsum
+  - title: Ready to give a new look to your bath
     content: ''
     actions: []
     actions_position: bottom
