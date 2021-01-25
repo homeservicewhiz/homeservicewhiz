@@ -12,7 +12,9 @@ sections:
     background_color: primary
     background_image_position: center top
   - title: Happiness is Guaranteed
-    subtitle: ''
+    subtitle: >-
+      We have done all the leg work so you don't have to. When you work with our
+      pre-screened, vetted and licensed local professionals, your...
     actions: []
     grid_items:
       - title: Lightning Fast
