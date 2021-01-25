@@ -1,6 +1,6 @@
 ---
 title: Bathtub Replacement
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - type: hero_section
     title: Bathtub Replacement
