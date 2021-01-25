@@ -11,7 +11,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: Why choose HomeServiceWhiz
+  - title: ''
     subtitle: ''
     features:
       - title: Excellent selection of acrylic bathtubs
