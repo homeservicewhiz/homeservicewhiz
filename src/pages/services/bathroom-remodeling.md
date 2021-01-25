@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Excellent selection of acrylic bathtubs
+      - title: ''
         subtitle: ''
         content: >+
           Renovating an existing space or building a fresh bath may be a major
