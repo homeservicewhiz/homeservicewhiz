@@ -3,7 +3,7 @@ title: Garage Door Replacement
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Garage Door Replacement
     subtitle: ''
     align: center
     padding_top: small
