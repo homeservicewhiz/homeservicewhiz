@@ -3,7 +3,7 @@ title: Home warrenties
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Home Warrenties
     subtitle: ''
     align: center
     padding_top: small
