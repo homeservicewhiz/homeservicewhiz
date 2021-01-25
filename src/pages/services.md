@@ -164,7 +164,7 @@ sections:
         title_align: center
       - title: Appliance Repair
         subtitle: Our pros can repair alomost anything.
-        title_align: center
+        title_align: left
         content: ''
         content_align: left
         actions: []
