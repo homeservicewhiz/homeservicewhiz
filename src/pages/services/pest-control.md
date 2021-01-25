@@ -3,7 +3,7 @@ title: Pest Control
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Pest Control
     subtitle: ''
     align: center
     padding_top: small
