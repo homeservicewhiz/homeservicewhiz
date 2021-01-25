@@ -36,7 +36,7 @@ sections:
       - title: Safety and Security
         subtitle: >-
           Our transparent annual warranties cover most repairs, renovations, and
-          appliances, which means your peace is guaranteed.
+          appliances, which means your peace of mind is guaranteed.
         title_align: left
         content: >-
           ## Lorem ipsum
