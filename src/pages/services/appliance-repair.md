@@ -160,7 +160,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Want to get your appliances fixed?
+  - title: Want to get your appliances fixed today?
     content: ''
     actions:
       - label: Call Now
