@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Hire Garage Door Replacement Experts
+      - title: Hire Pro Garage Door Replacement Experts
         subtitle: ''
         content: >
           Garage doors are probably the most critical moving parts of your
