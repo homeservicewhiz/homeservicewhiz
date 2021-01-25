@@ -193,9 +193,7 @@ sections:
         type: grid_item
         image: /images/Bathroom Remodel.png
       - title: Roofing
-        subtitle: >-
-          Have a roofing emergency ? Reach out to our fully insured roofing
-          experts
+        subtitle: Our roofing pros are fully insured
         title_align: left
         content: ''
         content_align: left
