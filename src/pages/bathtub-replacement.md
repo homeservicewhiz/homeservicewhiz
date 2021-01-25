@@ -11,11 +11,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: >-
-      An aging and a stained bathtub can really bear down the looks of your
-      bathroom. A tub replacement will solve the matter, but you would possibly
-      not feel up to the task. Fortunately, HomeServiceWhi features a skilled
-      team of bathtub replacement professionals able to update your bathroom.
+  - title: ''
     subtitle: ''
     features:
       - title: Excellent selection of acrylic bathtubs
