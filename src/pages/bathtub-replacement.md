@@ -11,7 +11,7 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-  - title: ''
+  - title: Happiness Guaranteed
     subtitle: ''
     actions: []
     grid_items:
