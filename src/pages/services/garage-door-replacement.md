@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Excellent selection of acrylic bathtubs
+      - title: ''
         subtitle: ''
         content: >
           Garage doors are probably the most critical moving parts of your
