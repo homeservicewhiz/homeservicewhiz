@@ -88,12 +88,13 @@ sections:
       - title: Water Damage
         subtitle: ''
         content: >
-          The replacement bathtubs that we install are made from 100% durable
-          acrylic. As a bonus, acrylic tubs are easier to stay clean because
-          they resist mold and mildew. All of this suggests that you'll enjoy a
-          beautiful tub that needs less scrubbing within the years to return. At
-          HomeServiceWhiz , we gladly provide a lifetime warranty on every
-          bathtub replacement service we offer.
+          In general, a home is one of the most important investments you'll
+          make in your lifetime. To guard that
+
+          investment, you ought to vigilantly lookout for household problems and
+          address them before they worsen.
+
+          One such dreaded homeowner issue is water damage.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
