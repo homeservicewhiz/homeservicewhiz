@@ -3,7 +3,7 @@ title: Mold Remediation
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Mold Remediation
     subtitle: ''
     align: center
     padding_top: small
