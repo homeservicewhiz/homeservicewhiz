@@ -73,7 +73,7 @@ sections:
   - title: Ready to give a new look to your bathtub
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: Call Now
         url: lorem-ipsum
         style: link
         has_icon: false
