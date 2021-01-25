@@ -52,7 +52,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_id: ''
     form_action: ''
     form_fields:
