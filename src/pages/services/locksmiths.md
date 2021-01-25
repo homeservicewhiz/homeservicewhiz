@@ -111,7 +111,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/AdobeStock_269805616.jpeg
+        image: /images/graceful-octopus.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
