@@ -4,9 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Bathtub Replacement
-    subtitle: >-
-      Please send us an email by filling up the form below or call us to speak
-      with a home improvement expert.
+    subtitle: ''
     align: center
     padding_top: small
     padding_bottom: small
