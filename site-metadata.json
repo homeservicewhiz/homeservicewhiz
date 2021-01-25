@@ -142,7 +142,7 @@
             },
             {
                 "label": "Garage Door",
-                "url": "lorem-ipsum",
+                "url": "/services/garage",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
