@@ -87,13 +87,7 @@ sections:
     features:
       - title: Excellent selection of acrylic bathtubs
         subtitle: ''
-        content: >
-          The replacement bathtubs that we install are made from 100% durable
-          acrylic. As a bonus, acrylic tubs are easier to stay clean because
-          they resist mold and mildew. All of this suggests that you'll enjoy a
-          beautiful tub that needs less scrubbing within the years to return. At
-          HomeServiceWhiz , we gladly provide a lifetime warranty on every
-          bathtub replacement service we offer.
+        content: "Relocation in ….. isn't a simple task to accomplish because it takes tons of effort to shift a house and therefore, the home items from one place to another. House moving in metros is the dreary undertaking to satisfy together must precisely move the relative's things without conveying harm to them. Choosing the best packers and movers and house shifting is one activity that demands additional care because it embroils the moving of huge appliances, furniture, gadgets and other costly home items.\_\n\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
