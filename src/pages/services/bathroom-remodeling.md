@@ -3,7 +3,7 @@ title: Bathroom Remodeling
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Bathroom Remodeling
     subtitle: ''
     align: center
     padding_top: small
