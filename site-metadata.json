@@ -164,7 +164,7 @@
             },
             {
                 "label": "Plumbing",
-                "url": "lorem-ipsum",
+                "url": "/services/plumbing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
