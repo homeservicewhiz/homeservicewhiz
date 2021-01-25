@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: Excellent selection of acrylic bathtubs
+      - title: ''
         subtitle: ''
         content: "Without repairs, you're stuck having to shop for new appliances at a costly rate once you could have had your old appliances working for years, which suggests less money down the drain. Most folks don't believe the downtime our appliances could face until something happens.\_\n\n"
         actions: []
