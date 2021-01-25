@@ -210,7 +210,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: What our customers say
-    subtitle: The true reward of the work we do is not $. It is ...
+    subtitle: The true reward of the work we do is ...
     grid_items:
       - type: grid_item
         content: >
