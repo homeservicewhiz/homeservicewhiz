@@ -72,7 +72,16 @@ sections:
     type: form_section
   - title: Ready to give a new look to your bathtub
     content: ''
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     actions_width: fourty
     align: left
