@@ -179,7 +179,7 @@ sections:
         image: /images/Appliance Repair.png
       - title: Bathroom Remodeling
         subtitle: ''
-        title_align: center
+        title_align: left
         content: ''
         content_align: center
         actions: []
