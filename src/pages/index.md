@@ -195,7 +195,7 @@ sections:
         url: '<a href=”tel:+1-877-456-0000″>'
         style: primary
       - label: Book Consultation
-        url: lorem-ipsum
+        url: /schedule-a-call
         style: secondary
         has_icon: false
         icon: arrow-left
