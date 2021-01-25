@@ -16,7 +16,9 @@ sections:
     actions: []
     grid_items:
       - title: Lightning Fast
-        subtitle: ''
+        subtitle: >-
+          Our quick turnaround time helps you save yours to live your life doing
+          stuff you care about.
         title_align: left
         content: >+
           Our quick turnaround time helps you save yours to live your life doing
