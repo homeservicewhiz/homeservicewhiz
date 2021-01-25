@@ -70,7 +70,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Ready to give a new look to your bath
+  - title: Ready to give a new look to your bathtub
     content: ''
     actions: []
     actions_position: bottom
