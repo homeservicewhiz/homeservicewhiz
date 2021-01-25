@@ -3,7 +3,7 @@ title: Moving
 excerpt: ''
 sections:
   - type: hero_section
-    title: Bathtub Replacement
+    title: Moving
     subtitle: ''
     align: center
     padding_top: small
