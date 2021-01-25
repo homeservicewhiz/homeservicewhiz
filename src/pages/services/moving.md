@@ -160,7 +160,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Need to speak to a moving pro today ?
+  - title: Need to speak with a moving pro today ?
     content: ''
     actions:
       - label: Call Now
