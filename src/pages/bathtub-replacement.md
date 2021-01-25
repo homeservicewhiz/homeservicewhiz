@@ -18,17 +18,10 @@ sections:
       - title: Lightning Fast
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Our quick turnaround time helps you save yours to live your life doing
+          stuff you care about.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
