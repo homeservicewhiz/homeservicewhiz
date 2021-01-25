@@ -1,6 +1,6 @@
 ---
 title: Areas we serve
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
