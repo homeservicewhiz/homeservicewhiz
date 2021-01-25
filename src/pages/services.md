@@ -162,7 +162,7 @@ sections:
         image_has_padding: false
         title: Garage Door Replacement
         title_align: center
-        subtitle: 'Weather you want to install a new door or '
+        subtitle: Weather you want to install a new door or replace the existing one
       - title: Appliance Repair
         subtitle: Our pros can repair almost any home appliance.
         title_align: left
