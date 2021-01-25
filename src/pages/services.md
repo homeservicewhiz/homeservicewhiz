@@ -208,7 +208,7 @@ sections:
         type: grid_item
         image: /images/rofing.png
       - title: Home Warrenties
-        subtitle: With our home warrenties you
+        subtitle: With our home warrenties your H
         title_align: center
         content: ''
         content_align: left
