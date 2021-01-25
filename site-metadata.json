@@ -152,7 +152,7 @@
                 "type": "action"
             },
             {
-                "label": "Locksmith",
+                "label": "Locksmith Service",
                 "url": "/services/locksmiths",
                 "style": "link",
                 "has_icon": false,
