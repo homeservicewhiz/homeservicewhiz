@@ -164,7 +164,7 @@ sections:
         title_align: left
         subtitle: Weather you want to install a new door or replace the existing one
         actions:
-          - label: lorem-ipsum
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
