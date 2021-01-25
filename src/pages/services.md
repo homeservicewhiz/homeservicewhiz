@@ -208,7 +208,7 @@ sections:
         type: grid_item
         image: /images/rofing.png
       - title: Home Warrenties
-        subtitle: 'With our home warrenties your HVAC '
+        subtitle: With our home warrenties your HVAC systems are fully covered.
         title_align: center
         content: ''
         content_align: left
