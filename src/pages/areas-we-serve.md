@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Areas we serve
 excerpt: lorem-ipsum
 template: page
 ---
