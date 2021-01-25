@@ -50,7 +50,7 @@ sections:
         type: grid_item
         image: /images/royal-ant.svg
       - title: Flexible Payments
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
