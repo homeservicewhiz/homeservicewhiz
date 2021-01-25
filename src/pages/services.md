@@ -193,7 +193,7 @@ sections:
         type: grid_item
         image: /images/Bathroom Remodel.png
       - title: Roofing
-        subtitle: Our roofing pros are fully insured
+        subtitle: Our roofing pros are licensed and fully insured
         title_align: left
         content: ''
         content_align: left
