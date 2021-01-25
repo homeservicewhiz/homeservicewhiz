@@ -169,7 +169,7 @@ sections:
         content_align: left
         actions:
           - label: Book Now
-            url: lorem-ipsum
+            url: /appliance
             style: link
             has_icon: false
             icon: arrow-left
