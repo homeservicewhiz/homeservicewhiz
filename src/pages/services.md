@@ -163,7 +163,7 @@ sections:
         title: Garage Door Replacement
         title_align: center
       - title: Appliance Repair
-        subtitle: 'Our pros can repair '
+        subtitle: 'Our pros can repair alomost '
         title_align: center
         content: ''
         content_align: left
