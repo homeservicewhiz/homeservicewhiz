@@ -183,7 +183,7 @@ sections:
         content: ''
         content_align: center
         actions:
-          - label: 'Book '
+          - label: Book Now
             url: lorem-ipsum
             style: link
             has_icon: false
