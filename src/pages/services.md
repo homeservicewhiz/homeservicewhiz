@@ -183,7 +183,7 @@ sections:
         content: ''
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: 'Book '
             url: lorem-ipsum
             style: link
             has_icon: false
