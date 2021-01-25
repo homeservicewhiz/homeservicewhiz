@@ -1,5 +1,5 @@
 ---
-title: Bathtub Replacement
+title: Bathroom Remodeling
 excerpt: ''
 sections:
   - type: hero_section
