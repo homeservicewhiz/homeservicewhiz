@@ -43,7 +43,9 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Get an estimate today
-    subtitle: ''
+    subtitle: >-
+      Fill up the form below to send us an email and our experts will get back
+      to you with light
     title_align: center
     content: ''
     content_align: left
