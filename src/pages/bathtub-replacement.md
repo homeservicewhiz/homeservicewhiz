@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: Light
+      - title: Lightning Fast
         subtitle: ''
         title_align: left
         content: >-
