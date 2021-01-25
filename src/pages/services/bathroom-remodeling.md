@@ -85,7 +85,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: ''
+      - title: Start your bathroom remodeling with an expert by your side
         subtitle: ''
         content: >+
           Renovating an existing space or building a fresh bath may be a major
