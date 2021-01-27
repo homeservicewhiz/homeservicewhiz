@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: There's no place like home
+    title: ''
     subtitle: 'Making this world a better place, one home at a time.'
     align: center
     background_color: primary
