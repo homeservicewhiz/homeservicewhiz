@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: ''
-    subtitle: 'Making this world a better place, one home at a time.'
+    subtitle: ''
     align: center
     background_color: primary
   - title: ''
