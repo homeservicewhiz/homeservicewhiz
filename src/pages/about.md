@@ -29,7 +29,7 @@ sections:
     subtitle: ''
     features:
       - title: Schedule a service
-        subtitle: 'Simply call us or schedule a consultation '
+        subtitle: 'Simply call us or schedule a '
         content: ''
         actions: []
         image_alt: lorem-ipsum
