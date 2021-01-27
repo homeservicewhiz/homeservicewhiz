@@ -9,7 +9,7 @@ sections:
     content: ''
   - title: ''
     subtitle: ''
-    content: "## At HomeServiceWhiz, we believe that a\_**calm mind**\_and\_**happy home**\_are the foundations of a\_peaceful\_and\_**just world**.\n\nWe are advancing our mission of\_**building a better world**\_for future generations by helping our patrons keep calm and *reduce unnecessary stress* associated with home improvement, maintenance, and restoration projects. And by *saving their time* so they can spend it cherishing life with people they **love.**\n"
+    content: "At HomeServiceWhiz, we believe that a home filled with love and laughter is the foundation of a healthy and peaceful society. We help keep living spaces happy by providing solutions for everything home, from appliance repair and Moving to bathroom remodeling and roofing. You can rely on our carefully vetted home service experts to take care of your house so you can cherish your home.\n\n\n\n\n\n\n**Appliance Repair:**\_No matter where you have purchased your home appliance, our appliance pros can help. We provide repair and maintenance services for all major brands' home appliances. Our experts can fix almost any\n\n*   HVAC\n\n*   Refridgerator\n\n*   Oven and cooktop\n\n*   Dishwasher\n\n*   Washer and Dryer\n\n*   Riding mower\n\n*   Snowblower\n\n*   Fitness equipment\n\n\n\n\n**Home Improvement**\n\nEvolve your living space with zero hassles. Let our Whizzes help you bring your dream home to life.\n\n\n\n\n*   Bathroom Remodeling\n\n*   Bathtub Replacement\n\n*   Mold Remediation\n\n*   Water Damage\n\n*   Garage door replacement\n\n*   Roofing\n\n\n\n\n\n\n\n**Maintainence**\n\n*   Pest Control.\n\n*   Plumbing\n\n*   Locksmith Services\n\n"
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: ''
