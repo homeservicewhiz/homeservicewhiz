@@ -3,9 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: ''
-    subtitle: >-
-      Home, home, sweet, sweet home There's no place like home; there's no place
-      like home!" ----------- John Howard Payne
+    subtitle: ''
     align: center
     background_color: primary
   - title: ''
