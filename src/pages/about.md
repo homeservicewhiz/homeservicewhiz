@@ -6,8 +6,7 @@ sections:
     subtitle: ''
     align: center
     background_color: primary
-    content: |
-      >
+    content: ''
   - title: ''
     subtitle: ''
     content: "## At HomeServiceWhiz, we believe that a\_**calm mind**\_and\_**happy home**\_are the foundations of a\_peaceful\_and\_**just world**.\n\nWe are advancing our mission of\_**building a better world**\_for future generations by helping our patrons keep calm and *reduce unnecessary stress* associated with home improvement, maintenance, and restoration projects. And by *saving their time* so they can spend it cherishing life with people they **love.**\n"
