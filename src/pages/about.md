@@ -6,9 +6,10 @@ sections:
     subtitle: ''
     align: center
     background_color: primary
-    content: |
-      > Home, home, sweet, sweet home
-      > There's no place like home; there's no place like home!"
+    content: >
+      > "Home, home, sweet, sweet home There's no place like home; there's no
+      place like home!"
+
       > \-John Howard Payne
   - title: ''
     subtitle: ''
