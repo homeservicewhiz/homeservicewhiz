@@ -95,7 +95,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/AdobeStock_302091475_Preview.jpeg
+        image: /images/Mold.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
