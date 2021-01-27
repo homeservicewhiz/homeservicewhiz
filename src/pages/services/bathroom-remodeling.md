@@ -48,7 +48,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: /images/royal-ant.svg
       - title: Flexible Payments
@@ -65,7 +65,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: /images/flexible_1.svg
     grid_cols: three
