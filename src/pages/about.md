@@ -2,7 +2,9 @@
 title: About
 sections:
   - type: hero_section
-    title: ''
+    title: >-
+      We help keep living spaces happy by providing solutions for everything
+      home
     subtitle: ''
     align: center
     background_color: primary
