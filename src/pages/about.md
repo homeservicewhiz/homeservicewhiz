@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: >-
-      We help keep living spaces happy by providing solutions for everything
+      We help keep living spaces thriving by providing solutions for everything
       home
     subtitle: Because There's no place like home…
     align: center
