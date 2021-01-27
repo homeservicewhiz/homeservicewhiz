@@ -2,9 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: >-
-      We help keep living spaces thriving by providing solutions for everything
-      home
+    title: We help keep living spaces thriving
     subtitle: Because There's no place like home…
     align: center
     background_color: primary
