@@ -29,9 +29,7 @@ sections:
     subtitle: ''
     features:
       - title: Schedule a service
-        subtitle: >-
-          Fill up a simple form on our website to get an estimate or simply call
-          us to request a service.
+        subtitle: 'Simply call us or schedule a consultation '
         content: ''
         actions: []
         image_alt: lorem-ipsum
