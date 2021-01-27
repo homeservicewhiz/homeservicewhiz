@@ -5,7 +5,7 @@ sections:
     title: >-
       We help keep living spaces happy by providing solutions for everything
       home
-    subtitle: ''
+    subtitle: Because There's no place like home…
     align: center
     background_color: primary
     content: ''
