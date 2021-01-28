@@ -9,7 +9,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: true
-    background_color: primary
+    background_color: none
     background_image_position: center top
   - title: Happiness is Guaranteed
     subtitle: >-
