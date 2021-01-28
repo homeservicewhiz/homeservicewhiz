@@ -12,7 +12,7 @@ sections:
     background_color: none
     background_image_position: center top
     image: /images/LockSmith-sinle.svg
-    media_position: bottom
+    media_position: top
   - title: Happiness is Guaranteed
     subtitle: >-
       We have done all the leg work so you don't have to. When you work with our
