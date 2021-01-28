@@ -6,7 +6,7 @@ sections:
     title: Locksmith Service
     subtitle: ''
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: small
     has_border: true
     background_color: none
