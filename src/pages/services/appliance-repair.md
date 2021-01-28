@@ -10,7 +10,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-    background_image_position: center top
+    background_image_position: center center
     background_image_size: contain
     background_image: /images/violet-mint.svg
   - title: Happiness is Guaranteed
