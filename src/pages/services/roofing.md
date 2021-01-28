@@ -11,7 +11,6 @@ sections:
     has_border: true
     background_color: none
     background_image_position: center top
-    background_image: /images/Roofing.svg
     background_image_size: contain
   - title: Happiness is Guaranteed
     subtitle: >-
