@@ -12,6 +12,7 @@ sections:
     background_color: primary
     background_image_position: center top
     image: /images/appliences.svg
+    background_image_size: contain
   - title: Happiness is Guaranteed
     subtitle: >-
       We have done all the leg work so you don't have to. When you work with our
