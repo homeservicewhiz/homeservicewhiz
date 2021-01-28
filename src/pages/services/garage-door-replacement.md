@@ -11,6 +11,7 @@ sections:
     has_border: true
     background_color: none
     background_image_position: center top
+    image: /images/Garage-Door-1.svg
   - title: Happiness is Guaranteed
     subtitle: >-
       We have done all the leg work so you don't have to. When you work with our
