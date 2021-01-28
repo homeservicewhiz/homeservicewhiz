@@ -9,7 +9,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: true
-    background_color: primary
+    background_color: none
     background_image_position: center top
     background_image_size: auto
     background_image: /images/parallel-pine.svg
