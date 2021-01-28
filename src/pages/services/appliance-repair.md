@@ -11,7 +11,6 @@ sections:
     has_border: true
     background_color: primary
     background_image_position: center top
-    image: /images/appliences.svg
     background_image_size: auto
     background_image: /images/parallel-pine.svg
   - title: Happiness is Guaranteed
