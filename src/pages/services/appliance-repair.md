@@ -13,31 +13,6 @@ sections:
     background_image_position: center center
     background_image_size: contain
     image: /images/clever-rabbit.svg
-  - title: ''
-    subtitle: ''
-    features:
-      - title: Increase the life of your appliances
-        subtitle: ''
-        content: "Without repairs, you're stuck having to shop for new appliances at a costly rate once you could have had your old appliances working for years, which suggests less money down the drain. Most folks don't believe the downtime our appliances could face until something happens.\_\n\n"
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: /images/AdobeStock_302091475_Preview.jpeg
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - title: Get an estimate today
     subtitle: >-
       Fill up the form below to send us an email and our experts will get back
@@ -91,6 +66,31 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - title: ''
+    subtitle: ''
+    features:
+      - title: Increase the life of your appliances
+        subtitle: ''
+        content: "Without repairs, you're stuck having to shop for new appliances at a costly rate once you could have had your old appliances working for years, which suggests less money down the drain. Most folks don't believe the downtime our appliances could face until something happens.\_\n\n"
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: ''
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: /images/AdobeStock_302091475_Preview.jpeg
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - title: Want to get your appliances fixed today?
     content: ''
     actions:
