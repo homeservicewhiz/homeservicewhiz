@@ -15,15 +15,7 @@ sections:
   - title: ''
     subtitle: ''
     title_align: center
-    content: >
-      # Our home improvement experts are waiting to answer your phone. Call us
-      on the number below between 9 AM to 5 PM EST.
-
-
-      # **+1-800-456-0000**
-
-
-      # **18 Pilgrim Ln Westbury, NY 11590, USA**
+    content: "Our home improvement experts are waiting to answer your phone.\r\nCall us on the number below between 9 AM to 5 PM EST.\n\n**+1-800-456-0000**\n\n**18 Pilgrim Ln Westbury, NY 11590, USA**\n"
     content_align: left
     form_position: right
     form_width: fifty
