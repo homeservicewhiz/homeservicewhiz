@@ -3,7 +3,7 @@ title: Appliance Repair
 excerpt: ''
 sections:
   - type: hero_section
-    title: Appliance Repair
+    title: ''
     subtitle: ''
     align: center
     padding_top: none
