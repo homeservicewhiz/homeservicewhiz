@@ -13,7 +13,7 @@ sections:
     background_color: primary
     background_image_position: center top
   - title: ''
-    subtitle: "\t18 Pilgrim Ln Westbury, NY 11590, USA"
+    subtitle: ''
     title_align: center
     content: >
       **Want to discuss your project with someone over the phone ?**
