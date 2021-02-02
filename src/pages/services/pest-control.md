@@ -17,7 +17,7 @@ sections:
     content: ''
     actions:
       - label: Call Now
-        url: lorem-ipsum
+        url: ''
         style: primary
         has_icon: false
         icon: arrow-left
