@@ -3,7 +3,7 @@ title: Pest Control
 excerpt: ''
 sections:
   - type: hero_section
-    title: Pest Control
+    title: ''
     subtitle: ''
     align: center
     padding_top: none
