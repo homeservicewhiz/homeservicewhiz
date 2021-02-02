@@ -8,7 +8,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: small
-    has_border: true
+    has_border: false
     background_color: primary
     background_image_position: center top
     background_image_size: contain
